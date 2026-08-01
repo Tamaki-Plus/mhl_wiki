@@ -2,9 +2,6 @@
 title: 战士III期
 ---
 
-# 游戏阶段指引（III期）
-
-
 
 ## 推荐攻略顺序
 - [古老的城堡](/instance/common/19_chengbao) / [暗影巢穴](/instance/common/20_an)（可并行）

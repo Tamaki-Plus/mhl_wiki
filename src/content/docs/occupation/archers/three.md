@@ -2,7 +2,6 @@
 title: 弓箭手III期
 ---
 
-# 弓箭DLC攻略（III期 · 成型期）
 
 ## 推荐攻略
 - [卓越哭谷](/instance/common/17_kugu)

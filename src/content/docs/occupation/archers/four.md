@@ -2,8 +2,6 @@
 title: 弓箭手IV期
 ---
 
-# 弓箭DLC攻略（IV期 · 毕业期）
-
 ## 推荐攻略
 - [卓越反塔](/instance/common/22_fanta)
 - [治愈的虹彩](/instance/common/23_hong)

@@ -2,7 +2,6 @@
 title: 战士II期
 ---
 
-# 游戏攻略与核心机制指南（II期）
 
 ## 推荐攻略
 - [机塑研究所](/instance/common/5_jisu)

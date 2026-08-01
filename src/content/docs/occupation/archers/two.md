@@ -2,7 +2,6 @@
 title: 弓箭手II期
 ---
 
-# 弓箭DLC攻略（II期 · 进阶强化）
 
 ## 推荐攻略
 - [金字塔](/instance/common/3_jinzita)

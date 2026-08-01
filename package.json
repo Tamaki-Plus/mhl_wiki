@@ -1,6 +1,6 @@
 {
-    "name": "cubic-wiki",
-    "version": "0.0.0",
+    "name": "mhl-wiki",
+    "version": "1.0.0",
     "private": true,
     "scripts": {
         "dev": "astro dev",

@@ -5,10 +5,10 @@ title: 弓箭手II期
 # 弓箭DLC攻略（II期 · 进阶强化）
 
 ## 推荐攻略
-- 金字塔
-- 远古冰封之海
-- 神保佑的异界
-- 永恒时间阵列 I / II（数字代表难度，难度越高奖励越丰厚）
+- [金字塔](/instance/common/3_jinzita)
+- [远古冰封之海](/instance/common/7_bing)
+- [神保佑的异界](/instance/common/9_jian)
+- [永恒时间阵列 I / II](/instance/common/21_shijian)（数字代表难度，难度越高奖励越丰厚）
 
 ---
 

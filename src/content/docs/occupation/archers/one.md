@@ -6,8 +6,8 @@ title: 弓箭手I期
 
 ## 推荐攻略
 - 主线任务
-- 荒草秘境
-- 遗忘之陵
+- [荒草秘境](/instance/common/1_huangcao)
+- [遗忘之陵](/instance/common/2_lingmu)
 - 盘古试炼
 
 ---

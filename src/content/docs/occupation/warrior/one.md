@@ -10,7 +10,7 @@ title: 战士I期
 - 普通始皇
 - 普通反塔
 - 环城跑酷
-- 荒草秘境
+- [荒草秘境](/instance/common/1_huangcao)
 
 ---
 

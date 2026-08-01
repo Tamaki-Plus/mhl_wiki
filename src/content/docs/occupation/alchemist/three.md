@@ -5,15 +5,15 @@ title: 弓箭手III期
 # 炼丹师DLC攻略（III期 · 资源积累与核心装备）
 
 ## 推荐攻略
-- 金字塔
-- 热能发电厂
-- 机塑研究所
-- 王师魂定所
-- 远古冰封之海
-- 无常殿
-- 神保佑的异界
-- 血神教
-- 永恒时间阵列 I / II（数字代表难度，难度越高奖励越丰厚）
+- [金字塔](/instance/common/3_jinzita)
+- [热能发电厂](/instance/common/4_fushe)
+- [机塑研究所](/instance/common/5_jisu)
+- [王师魂定所](/instance/common/6_wangshi)
+- [远古冰封之海](/instance/common/7_bing)
+- [无常殿](/instance/common/8_wuchang)
+- [神保佑的异界](/instance/common/9_jian)
+- [血神教](/instance/common/10_xueshen)
+- [永恒时间阵列 I / II](/instance/common/21_shijian)（数字代表难度，难度越高奖励越丰厚）
 
 ---
 

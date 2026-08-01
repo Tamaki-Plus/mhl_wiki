@@ -62,7 +62,7 @@ export default defineConfig({
                         {
                             label: "职业指导篇",
                             link: "/occupation/intro",
-                            id: "java",
+                            id: "occupation",
                             icon: "open-book",
                             items: [
                                 {
@@ -99,7 +99,7 @@ export default defineConfig({
                         {
                             label: "副本档案篇",
                             link: "/instance/intro",
-                            id: "java",
+                            id: "instance",
                             icon: "open-book",
                             items: [
                                 {
@@ -140,6 +140,89 @@ export default defineConfig({
                                     items: [
                                         "instance/special/1_shamota",
                                         "instance/special/2_huanjing"
+                                        ]
+                                }
+                            ]
+                        },
+                        {
+                            label: "装备档案篇",
+                            link: "/equip/intro",
+                            id: "equip",
+                            icon: "open-book",
+                            items: [
+                                {
+                                    label: "战士武器",
+                                    items: [
+                                        ]
+                                },
+                                {
+                                    label: "弓箭手武器",
+                                    items: [
+                                        ]
+                                },
+                                {
+                                    label: "炼丹师武器",
+                                    items: [
+                                        ]
+                                },
+                                {
+                                    label: "盾之印",
+                                    items: [
+                                        {
+                                            label: "战士盾",
+                                            items: [
+                                            ]
+                                        },
+                                        {
+                                            label: "通用盾",
+                                            items: [
+                                            ]
+                                        }
+                                        ]
+                                },
+                                {
+                                    label: "法宝",
+                                    items: [
+                                        {
+                                            label: "战士法宝",
+                                            items: [
+                                            ]
+                                        },
+                                        {
+                                            label: "弓箭手法宝",
+                                            items: [
+                                            ]
+                                        },
+                                        {
+                                            label: "炼丹师法宝",
+                                            items: [
+                                            ]
+                                        },
+                                        {
+                                            label: "通用法宝",
+                                            items: [
+                                            ]
+                                        }
+                                        ]
+                                },
+                                {
+                                    label: "头盔",
+                                    items: [
+                                        ]
+                                },
+                                {
+                                    label: "胸甲",
+                                    items: [
+                                        ]
+                                },
+                                {
+                                    label: "护腿",
+                                    items: [
+                                        ]
+                                },
+                                {
+                                    label: "鞋子",
+                                    items: [
                                         ]
                                 }
                             ]

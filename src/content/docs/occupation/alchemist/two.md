@@ -5,10 +5,10 @@ title: 战士II期
 # 游戏攻略与核心机制指南（II期）
 
 ## 推荐攻略
-- 机塑研究所
-- 王师魂定所
-- 远古冰封之海
-- 神保佑的异界（剑本）
+- [机塑研究所](/instance/common/5_jisu)
+- [王师魂定所](/instance/common/6_wangshi)
+- [远古冰封之海](/instance/common/7_bing)
+- [神保佑的异界（剑本）](/instance/common/9_jian)
 
 ---
 
@@ -73,6 +73,6 @@ title: 战士II期
 ---
 
 ## 可选探索（待补充详情）
-- 遗忘之陵  
-- 金字塔  
-- 热能发电厂
+- [遗忘之陵](/instance/common/2_lingmu)
+- [金字塔](/instance/common/3_jinzita)
+- [热能发电厂](/instance/common/4_fushe)

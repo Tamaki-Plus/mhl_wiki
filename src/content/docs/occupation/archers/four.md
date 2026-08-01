@@ -5,24 +5,13 @@ title: 弓箭手IV期
 # 弓箭DLC攻略（IV期 · 毕业期）
 
 ## 推荐攻略
-- 卓越反塔
-- 治愈的虹彩
-- 上古封印之地
-- 神判古界
-- 灾厄王国
-- 两仪倒悬天
-- 花神祀域
-
----
-
-## 推荐攻略顺序
-1. 卓越反塔
-2. 治愈的虹彩
-3. 上古封印之地
-4. 神判古界
-5. 灾厄王国
-6. 花神祀域
-7. 两仪倒悬天
+- [卓越反塔](/instance/common/22_fanta)
+- [治愈的虹彩](/instance/common/23_hong)
+- [上古封印之地](/instance/common/24_huo)
+- [神判古界](/instance/common/25_dian)
+- [灾厄王国](/instance/common/26_zai)
+- [两仪倒悬天](/instance/common/28_tian)
+- [花神祀域](/instance/common/27_hua)
 
 ---
 

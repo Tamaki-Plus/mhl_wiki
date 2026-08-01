@@ -1,0 +1,67 @@
+@layer base, starlight, theme, components, utilities;
+
+@import "@astrojs/starlight-tailwind";
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@plugin "daisyui" {
+    prefix: daisy-;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
+@theme {
+    /* 由深浅两套 accent 色值归并而成 */
+    --color-accent-200: #bfe1ca;
+    --color-accent-600: #007f48;
+    --color-accent-900: #003d20;
+    --color-accent-950: #002c16;
+
+    /* 由深浅两套 gray 色值归并而成 */
+    --color-gray-100: #f6f6f6;
+    --color-gray-200: #eeeeee;
+    --color-gray-300: #c8c8c8;
+    --color-gray-400: #a4a4a4;
+    --color-gray-500: #8b8b8b;
+    --color-gray-700: #585858;
+    --color-gray-800: #383838;
+    --color-gray-900: #272727;
+}
+
+/* Dark mode colors. */
+:root {
+    --purple-hsl: 255, 60%, 60%;
+    --overlay-blurple: hsla(var(--purple-hsl), 0.2);
+}
+/* Light mode colors. */
+:root[data-theme="light"] {
+    --purple-hsl: 255, 85%, 65%;
+}
+
+@media (min-width: 96rem) {
+    :root {
+        --sl-content-width: 64rem;
+    }
+}
+
+[data-has-hero] .page {
+    background:
+        linear-gradient(215deg, var(--overlay-blurple), transparent 40%),
+        radial-gradient(var(--overlay-blurple), transparent 40%) no-repeat -60vw -40vh / 105vw 200vh,
+        radial-gradient(var(--overlay-blurple), transparent 65%) no-repeat 50% calc(100% + 20rem) / 60rem 30rem;
+}
+
+[data-has-hero] header {
+    border-bottom: 1px solid transparent;
+    background-color: transparent;
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+}
+
+[data-has-hero] .hero > img {
+    filter: drop-shadow(0 0 3rem var(--overlay-blurple));
+}

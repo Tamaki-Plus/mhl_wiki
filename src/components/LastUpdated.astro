@@ -1,0 +1,25 @@
+---
+const { lang, lastUpdated } = Astro.locals.starlightRoute;
+---
+
+{
+  lastUpdated && (
+    <p class="flex flex-nowrap items-center gap-2 whitespace-nowrap">
+      <span class="flex items-center gap-1">
+        更新时间:
+        <time datetime={lastUpdated.toISOString()}>
+          {lastUpdated.toLocaleDateString(lang, {
+            dateStyle: "medium",
+            timeZone: "UTC",
+          })}
+        </time>
+      </span>
+    </p>
+  )
+}
+
+<style>
+  :global(.text-accent-high) {
+    @apply text-(--sl-color-accent-high);
+  }
+</style>

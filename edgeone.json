@@ -1,5 +1,5 @@
 {
-    "name": "NitWikit",
+    "name": "mgl_wiki",
     "buildCommand": "npm run build",
     "installCommand": "npm install",
     "outputDirectory": "./build",

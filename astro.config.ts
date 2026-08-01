@@ -14,7 +14,6 @@ import vue from "@astrojs/vue";
 const IS_CHINA_SITE = process.env.CHINA === "true";
 
 export default defineConfig({
-    //site: IS_CHINA_SITE ? "https://nitwikit.8aka.cn" : "https://nitwikit.8aka.org", //
     outDir: "./build",
     integrations: [
         vue(),
@@ -28,12 +27,9 @@ export default defineConfig({
                 }
             },
             favicon: "/favicon.ico",
-            //social: [{ icon: "github", label: "GitHub", href: "https://github.com/Cubic-Project/NitWikit" }],
+            social: [{ icon: "github", label: "GitHub", href: "https://github.com/Tamaki-Plus/mhl_wiki" }],
             logo: { src: "./src/assets/logo.svg" },
             lastUpdated: true,
-            /*editLink: {
-                baseUrl: "https://github.com/Cubic-Project/NitWikit/edit/main/"
-            },*/
             customCss: ["./src/styles/global.css"],
             plugins: [
                 starlightGiscus({
@@ -232,9 +228,9 @@ export default defineConfig({
                 starlightLinksValidator(),
                 starlightImageZoom(),
                 starlightDocSearch({
-                    appId: "D1KV1BYF3B",
-                    apiKey: "4bb3573e59f2c49f30f057ce54edab3f",
-                    indexName: "yizhan",
+                    appId: "BTTEBIO771",
+                    apiKey: "fbe84cce03b6708f36bdd0aa7f167728",
+                    indexName: "mhl",
                     insights: true
                 }),
                 starlightScrollToTop()
@@ -258,8 +254,8 @@ export default defineConfig({
                 directoryAndTrailingSlashHandler: true
             },
             manifest: {
-                name: "Cubic Wiki",
-                short_name: "Cubic Wiki",
+                name: "mhl Wiki",
+                short_name: "mhl Wiki",
                 display: "standalone",
                 theme_color: "#2196f3",
                 background_color: "#424242"

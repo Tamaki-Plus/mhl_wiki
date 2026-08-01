@@ -14,6 +14,7 @@ import vue from "@astrojs/vue";
 const IS_CHINA_SITE = process.env.CHINA === "true";
 
 export default defineConfig({
+    //site: IS_CHINA_SITE ? "https://nitwikit.8aka.cn" : "https://nitwikit.8aka.org", //
     outDir: "./build",
     integrations: [
         vue(),
@@ -27,9 +28,12 @@ export default defineConfig({
                 }
             },
             favicon: "/favicon.ico",
-            social: [{ icon: "github", label: "GitHub", href: "https://github.com/Tamaki-Plus/mhl_wiki" }],
+            //social: [{ icon: "github", label: "GitHub", href: "https://github.com/Cubic-Project/NitWikit" }],
             logo: { src: "./src/assets/logo.svg" },
             lastUpdated: true,
+            /*editLink: {
+                baseUrl: "https://github.com/Cubic-Project/NitWikit/edit/main/"
+            },*/
             customCss: ["./src/styles/global.css"],
             plugins: [
                 starlightGiscus({
@@ -254,8 +258,8 @@ export default defineConfig({
                 directoryAndTrailingSlashHandler: true
             },
             manifest: {
-                name: "mhl Wiki",
-                short_name: "mhl Wiki",
+                name: "Cubic Wiki",
+                short_name: "Cubic Wiki",
                 display: "standalone",
                 theme_color: "#2196f3",
                 background_color: "#424242"

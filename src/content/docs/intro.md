@@ -13,4 +13,5 @@ title: 概述
 
 ## 更多
 
-对于文档中的错误请联系负责人修改。
+对于文档中的错误请进入 [GitHub](https://github.com/Tamaki-Plus/mhl_wiki) 提出 Issue 或提交 PR。
+

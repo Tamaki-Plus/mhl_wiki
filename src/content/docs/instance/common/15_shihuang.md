@@ -87,13 +87,13 @@ title: 卓越始皇陵
 
 ### [定秦](equip/sword/7_dingqin)（战士）
 
-（属性待补充）
+
 
 ---
 
 ### [君临](equip/helmet/14_junlin)（头盔）
 
-（属性待补充）
+
 
 ---
 

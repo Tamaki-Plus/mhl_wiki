@@ -140,13 +140,13 @@ title: 灾厄王国
 
 > 灾星·壹、灾星·贰 需使用 **升格强化** [[灾星](equip/boots/17_zaixing)血刃](equip/sword/13_zaixingxueren)后解锁
 
-（属性待补充）
+
 
 ---
 
 ### [厄](equip/bow/5_e)（弓）
 
-（属性待补充）
+
 
 ---
 
@@ -154,37 +154,37 @@ title: 灾厄王国
 
 > 血灾·壹、血灾·贰 需使用 **升格强化** [血灾](equip/treasured/warrior/2_xuezai)后解锁
 
-（属性待补充）
+
 
 ---
 
 ### [神圣领域](equip/treasured/alchemist/1_shenshenglingyu)（法宝 · 炼丹师）
 
-（属性待补充）
+
 
 ---
 
 ### [厄星](equip/helmet/12_exing)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [[血灾](equip/treasured/warrior/2_xuezai)铠甲](equip/chestplate/19_xuezaikaijia)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [[血灾](equip/treasured/warrior/2_xuezai)护腿](equip/leggings/14_xuezaihutui)（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [灾星](equip/boots/17_zaixing)（鞋子）
 
-（属性待补充）
+
 
 ---
 

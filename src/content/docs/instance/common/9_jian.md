@@ -71,31 +71,31 @@ title: 神保佑的异界
 
 ### [异星烛魔](equip/helmet/17_yixingzhumo)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [残将天陨](equip/chestplate/10_canjiangtianyun)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### 逆转·异星蚀魔（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### 噬烈·异星蚀魔（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [烈火·残将天陨](equip/chestplate/14_liehuocanjiangtianyun)（铠甲）
 
-（属性待补充）
+
 
 ---
 

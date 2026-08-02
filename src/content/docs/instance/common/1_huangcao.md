@@ -108,7 +108,7 @@ title: 荒草秘境
 
 ### [鸩巢骨青鼎](equip/tripod/16_zhenchaoguqingding)（炼丹师）
 
-（属性待补充）
+
 
 ---
 

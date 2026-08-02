@@ -87,43 +87,43 @@ title: 上古封印之地
 
 > 剑魂·壹、剑魂·贰 需使用 **升格强化** [越王剑](equip/sword/15_yuewangjian)后解锁
 
-（属性待补充）
+
 
 ---
 
 ### 玄冥锢灵（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [血咒封魂](equip/helmet/22_xuezhoufenghun)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [上古翼甲](equip/chestplate/2_shangguyijia)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [苍冥御劫](equip/chestplate/17_cangmingyujie)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### 饕餮封辉（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [玄螭封裤](equip/leggings/11_xuanchifengku)（裤子）
 
-（属性待补充）
+
 
 ---
 

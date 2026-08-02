@@ -69,7 +69,8 @@ export default defineConfig({
                                     "occupation/warrior/one",
                                     "occupation/warrior/two",
                                     "occupation/warrior/three",
-                                    "occupation/warrior/four"
+                                    "occupation/warrior/four",
+                                    "occupation/warrior/wuqi"
                                     ]
                             },
                             {
@@ -79,7 +80,8 @@ export default defineConfig({
                                     "occupation/archers/one",
                                     "occupation/archers/two",
                                     "occupation/archers/three",
-                                    "occupation/archers/four"
+                                    "occupation/archers/four",
+                                    "occupation/archers/wuqi"
                                     ]
                             },
                             {

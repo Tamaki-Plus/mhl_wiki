@@ -93,31 +93,31 @@ title: 远古遗迹
 
 ### [恒古之杖](equip/tripod/7_hengguzhizhang)（炼丹师）
 
-（属性待补充）
+
 
 ---
 
 ### [恒古陵冠](equip/helmet/18_henggulingguan)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### 递归颧骨（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [恒古霆锋](equip/boots/8_henggutingfeng)（鞋子）
 
-（属性待补充）
+
 
 ---
 
 ### 恒古噬咒（法宝 · 弓箭手）
 
-（属性待补充）
+
 
 ---
 

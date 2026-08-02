@@ -68,43 +68,43 @@ title: 古老的城堡
 
 ### [恒古·异世残刃](equip/sword/12_hengguyishicanren)（战士）
 
-（属性待补充）
+
 
 ---
 
 ### 恒古黯影（弓）
 
-（属性待补充）
+
 
 ---
 
 ### [冥[虹](equip/bow/13_hong)镜芒](equip/helmet/4_minghongjingmang)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [龙鳞铠甲](equip/chestplate/25_longlinkaijia)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [魔导之魂](equip/leggings/20_modaozhihun)（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [虚幻圆舞](equip/boots/19_xuhuanyuanwu)（鞋子）
 
-（属性待补充）
+
 
 ---
 
 ### 光之印（法宝 · 战士）
 
-（属性待补充）
+
 
 ---
 

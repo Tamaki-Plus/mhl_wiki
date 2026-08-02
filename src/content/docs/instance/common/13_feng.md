@@ -86,7 +86,7 @@ title: 风潭之底
 
 ### [霞断云彻](equip/bow/16_xiaduanyunche)（弓）
 
-（属性待补充）
+
 
 ---
 

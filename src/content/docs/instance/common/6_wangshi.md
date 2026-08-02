@@ -100,19 +100,19 @@ title: 王师魂定所
 
 ### [君诏令](equip/tripod/1_junzhaoling)（炼丹师）
 
-（属性待补充）
+
 
 ---
 
 ### [叶之红染](equip/helmet/13_yezhihongran)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [陨星剪影](equip/leggings/17_yunxingjianying)（裤子）
 
-（属性待补充）
+
 
 ---
 

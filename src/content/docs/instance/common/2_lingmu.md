@@ -102,25 +102,25 @@ title: 遗忘之陵
 
 ### [卯时星焰](equip/helmet/11_maoshixingyan)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [残天珞羽](equip/chestplate/9_cantianluoyu)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### 星念罗衾（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [星帘下](equip/boots/11_xinglianxia)（鞋子）
 
-（属性待补充）
+
 
 ---
 

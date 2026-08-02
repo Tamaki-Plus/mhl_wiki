@@ -100,31 +100,31 @@ title: 血神教
 
 ### [血狱](equip/sword/14_xueyu)（战士）
 
-（属性待补充）
+
 
 ---
 
 ### [噬灵刻刀](equip/tripod/2_shilingkedao)（炼丹师）
 
-（属性待补充）
+
 
 ---
 
 ### 血海魔裳（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [冥狱血裳](equip/leggings/4_mingyuxueshang)（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [噬生·血狱](equip/sword/1_shishengxueyu)（战士）
 
-（属性待补充）
+
 
 ---
 

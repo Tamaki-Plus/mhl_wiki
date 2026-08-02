@@ -56,37 +56,37 @@ title: 永恒时间阵列III
 
 ### [时流之瞬](equip/bow/9_shiliuzhishun)（弓）
 
-（属性待补充）
+
 
 ---
 
 ### [永恒权杖](equip/tripod/12_yonghengquanzhang)（炼丹师）
 
-（属性待补充）
+
 
 ---
 
 ### [永恒金梭](equip/helmet/21_yonghengjinsuo)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [永恒长袍](equip/chestplate/11_yonghengchangpao)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [时流指针](equip/leggings/7_shiliuzhizhen)（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [时流钟亭](equip/boots/10_shiliuzhongting)（裤子）
 
-（属性待补充）
+
 
 ---
 

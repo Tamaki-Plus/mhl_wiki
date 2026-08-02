@@ -117,25 +117,25 @@ title: 卓越反塔
 
 ### [镇狱天罗](equip/helmet/25_zhenyutianluo)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [封魔玄甲](equip/chestplate/7_fengmoxuanjia)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [锁魂玄纹·解](equip/leggings/16_suohunxuanwenjie)（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### 灭崇战靴（鞋子）
 
-（属性待补充）
+
 
 ---
 

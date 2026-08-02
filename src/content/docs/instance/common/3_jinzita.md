@@ -128,19 +128,19 @@ title: 金字塔
 
 ### [苍穹](equip/bow/12_cangqiong)（弓）
 
-（属性待补充）
+
 
 ---
 
 ### [太初天眼](equip/helmet/16_taichutianyan)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [九天裙裾](equip/leggings/2_jiutianqunju)（裤子）
 
-（属性待补充）
+
 
 > 📝 **注**：九天裙摆雏形为裤子，此处为文本错误。
 

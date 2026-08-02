@@ -109,7 +109,7 @@ title: 雷裔之穴
 
 ### [绝曦](equip/chestplate/15_juexi)（铠甲）
 
-（属性待补充）
+
 
 ---
 
@@ -121,7 +121,7 @@ title: 雷裔之穴
 
 ### [惘生](equip/boots/9_wangsheng)（鞋子）
 
-（属性待补充）
+
 
 ---
 

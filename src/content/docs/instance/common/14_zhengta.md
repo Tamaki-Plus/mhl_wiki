@@ -118,13 +118,13 @@ title: 卓越正塔
 
 ### [水佑](equip/shield/common/2_shuiyou)（盾 · 通用）
 
-（属性待补充）
+
 
 ---
 
 ### [若水青砂](equip/leggings/13_ruoshuiqingsha)（裤子）
 
-（属性待补充）
+
 
 ---
 

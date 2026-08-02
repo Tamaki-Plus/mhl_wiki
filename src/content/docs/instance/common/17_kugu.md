@@ -46,25 +46,25 @@ title: 卓越哭谷
 
 ### [日蚀金烁](equip/bow/8_rishijinshuo)（弓）
 
-（属性待补充）
+
 
 ---
 
 ### [凤羽华盔](equip/helmet/9_fengyuhuakui)（头盔）
 
-（属性待补充）
+
 
 ---
 
 ### [金乌折翼](equip/chestplate/23_jinwuzheyi)（铠甲）
 
-（属性待补充）
+
 
 ---
 
 ### [灵犀护胄](equip/chestplate/12_lingxihuzhou)（铠甲）
 
-（属性待补充）
+
 
 ---
 

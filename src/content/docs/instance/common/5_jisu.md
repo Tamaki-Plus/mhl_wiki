@@ -94,7 +94,7 @@ title: 机塑研究所
 
 ### [量子剑盾](equip/shield/warrior/1_liangzijiandun)（盾 · 战士）
 
-（属性待补充）
+
 
 ---
 
@@ -106,13 +106,13 @@ title: 机塑研究所
 
 ### [神火围](equip/leggings/12_shenhuowei)（裤子）
 
-（属性待补充）
+
 
 ---
 
 ### [神火雨花](equip/boots/18_shenhuoyuhua)（鞋子）
 
-（属性待补充）
+
 
 ---
 

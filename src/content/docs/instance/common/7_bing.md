@@ -65,13 +65,13 @@ title: 远古冰封之海
 
 ## 装备产出
 
-### 寒霜印（炼丹师）
+### [寒霜印](equip/tripod/4_hanshuangyin)（炼丹师）
 
 （属性待补充）
 
 ---
 
-### 霜影（弓）
+### [霜影](equip/bow/15_shuangying)（弓）
 
 （属性待补充）
 

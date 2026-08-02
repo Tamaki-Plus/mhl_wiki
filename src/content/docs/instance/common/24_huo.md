@@ -83,9 +83,9 @@ title: 上古封印之地
 
 ## 装备产出
 
-### 越王剑（战士）
+### [越王剑](equip/sword/15_yuewangjian)（战士）
 
-> 剑魂·壹、剑魂·贰 需使用 **升格强化** 越王剑后解锁
+> 剑魂·壹、剑魂·贰 需使用 **升格强化** [越王剑](equip/sword/15_yuewangjian)后解锁
 
 （属性待补充）
 
@@ -97,19 +97,19 @@ title: 上古封印之地
 
 ---
 
-### 血咒封魂（头盔）
+### [血咒封魂](equip/helmet/22_xuezhoufenghun)（头盔）
 
 （属性待补充）
 
 ---
 
-### 上古翼甲（铠甲）
+### [上古翼甲](equip/chestplate/2_shangguyijia)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 苍冥御劫（铠甲）
+### [苍冥御劫](equip/chestplate/17_cangmingyujie)（铠甲）
 
 （属性待补充）
 
@@ -121,7 +121,7 @@ title: 上古封印之地
 
 ---
 
-### 玄螭封裤（裤子）
+### [玄螭封裤](equip/leggings/11_xuanchifengku)（裤子）
 
 （属性待补充）
 

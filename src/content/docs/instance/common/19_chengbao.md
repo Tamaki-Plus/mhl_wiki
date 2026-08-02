@@ -66,7 +66,7 @@ title: 古老的城堡
 
 ## 装备产出
 
-### 恒古·异世残刃（战士）
+### [恒古·异世残刃](equip/sword/12_hengguyishicanren)（战士）
 
 （属性待补充）
 
@@ -78,25 +78,25 @@ title: 古老的城堡
 
 ---
 
-### 冥虹镜芒（头盔）
+### [冥[虹](equip/bow/13_hong)镜芒](equip/helmet/4_minghongjingmang)（头盔）
 
 （属性待补充）
 
 ---
 
-### 龙鳞铠甲（铠甲）
+### [龙鳞铠甲](equip/chestplate/25_longlinkaijia)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 魔导之魂（裤子）
+### [魔导之魂](equip/leggings/20_modaozhihun)（裤子）
 
 （属性待补充）
 
 ---
 
-### 虚幻圆舞（鞋子）
+### [虚幻圆舞](equip/boots/19_xuhuanyuanwu)（鞋子）
 
 （属性待补充）
 

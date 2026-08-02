@@ -98,13 +98,13 @@ title: 血神教
 
 ## 装备产出
 
-### 血狱（战士）
+### [血狱](equip/sword/14_xueyu)（战士）
 
 （属性待补充）
 
 ---
 
-### 噬灵刻刀（炼丹师）
+### [噬灵刻刀](equip/tripod/2_shilingkedao)（炼丹师）
 
 （属性待补充）
 
@@ -116,13 +116,13 @@ title: 血神教
 
 ---
 
-### 冥狱血裳（裤子）
+### [冥狱血裳](equip/leggings/4_mingyuxueshang)（裤子）
 
 （属性待补充）
 
 ---
 
-### 噬生·血狱（战士）
+### [噬生·血狱](equip/sword/1_shishengxueyu)（战士）
 
 （属性待补充）
 

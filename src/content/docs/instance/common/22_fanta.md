@@ -115,19 +115,19 @@ title: 卓越反塔
 
 ## 装备产出
 
-### 镇狱天罗（头盔）
+### [镇狱天罗](equip/helmet/25_zhenyutianluo)（头盔）
 
 （属性待补充）
 
 ---
 
-### 封魔玄甲（铠甲）
+### [封魔玄甲](equip/chestplate/7_fengmoxuanjia)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 锁魂玄纹·解（裤子）
+### [锁魂玄纹·解](equip/leggings/16_suohunxuanwenjie)（裤子）
 
 （属性待补充）
 

@@ -29,7 +29,7 @@ title: 永恒时间阵列III
 | 时之指针 × 2 | 33.6% |
 | 时空结界碎片 × 2 | 33.6% |
 | 时流之瓶 × 1 | 0.1% |
-| 褪色的永恒权杖 | 0.1% |
+| 褪色的[永恒权杖](equip/tripod/12_yonghengquanzhang) | 0.1% |
 | 空 | 32.6% |
 | [炼丹师] 五行浓缩元素核 × 1 | **100%** |
 
@@ -54,37 +54,37 @@ title: 永恒时间阵列III
 
 ## 装备产出
 
-### 时流之瞬（弓）
+### [时流之瞬](equip/bow/9_shiliuzhishun)（弓）
 
 （属性待补充）
 
 ---
 
-### 永恒权杖（炼丹师）
+### [永恒权杖](equip/tripod/12_yonghengquanzhang)（炼丹师）
 
 （属性待补充）
 
 ---
 
-### 永恒金梭（头盔）
+### [永恒金梭](equip/helmet/21_yonghengjinsuo)（头盔）
 
 （属性待补充）
 
 ---
 
-### 永恒长袍（铠甲）
+### [永恒长袍](equip/chestplate/11_yonghengchangpao)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 时流指针（裤子）
+### [时流指针](equip/leggings/7_shiliuzhizhen)（裤子）
 
 （属性待补充）
 
 ---
 
-### 时流钟亭（裤子）
+### [时流钟亭](equip/boots/10_shiliuzhongting)（裤子）
 
 （属性待补充）
 

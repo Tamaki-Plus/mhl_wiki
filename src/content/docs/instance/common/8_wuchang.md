@@ -88,7 +88,7 @@ title: 无常殿
 
 ## 装备产出
 
-### 地藏镰戈（战士）
+### [地藏镰戈](equip/sword/2_dizangliange)（战士）
 
 （属性待补充）
 
@@ -106,49 +106,49 @@ title: 无常殿
 
 ---
 
-### 一转·太初天眼（头盔）
+### [一转·太初天眼](equip/helmet/1_yizhuantaichutianyan)（头盔）
 
 （属性待补充）
 
 ---
 
-### 一转·太初神甲（铠甲）
+### [一转·太初神甲](equip/chestplate/1_yizhuantaichushenjia)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 一转·九天裙裾（裤子）
+### [一转·九天裙裾](equip/leggings/1_yizhuanjiutianqunju)（裤子）
 
 （属性待补充）
 
 ---
 
-### 一转·九天玄羽（鞋子）
+### [一转·九天玄羽](equip/boots/1_yizhuanjiutianxuanyu)（鞋子）
 
 （属性待补充）
 
 ---
 
-### 二转·太初天眼（头盔）
+### [二转·太初天眼](equip/helmet/2_erzhuantaichutianyan)（头盔）
 
 （属性待补充）
 
 ---
 
-### 二转·太初神甲（铠甲）
+### [二转·太初神甲](equip/chestplate/3_erzhuantaichushenjia)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 二转·九天裙裾（裤子）
+### [二转·九天裙裾](equip/leggings/3_erzhuanjiutianqunju)（裤子）
 
 （属性待补充）
 
 ---
 
-### 二转·九天玄羽（鞋子）
+### [二转·九天玄羽](equip/boots/2_erzhuanjiutianxuanyu)（鞋子）
 
 （属性待补充）
 

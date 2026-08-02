@@ -50,7 +50,7 @@ title: 卓越火魔
 
 ---
 
-### 枫璃海染
+### [枫璃海染](equip/helmet/20_fenglihairan)
 
 （属性待补充）
 

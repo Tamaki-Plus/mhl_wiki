@@ -143,7 +143,7 @@ title: 热能发电厂
 
 ## 装备产出
 
-### 星陨辐照（炼丹师）
+### [星陨辐照](equip/tripod/9_xingyunfuzhao)（炼丹师）
 
 （属性待补充）
 
@@ -155,19 +155,19 @@ title: 热能发电厂
 
 ---
 
-### 共振（头盔）
+### [共振](equip/helmet/3_gongzhen)（头盔）
 
 （属性待补充）
 
 ---
 
-### 辐能重铠-存续（铠甲）
+### [辐能重铠-存续](equip/chestplate/21_funengzhongkaicunxu)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 辐能重铠-壁垒（铠甲）
+### [辐能重铠-壁垒](equip/chestplate/20_funengzhongkaibilei)（铠甲）
 
 （属性待补充）
 

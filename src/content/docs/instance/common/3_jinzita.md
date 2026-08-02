@@ -126,19 +126,19 @@ title: 金字塔
 
 ## 装备产出
 
-### 苍穹（弓）
+### [苍穹](equip/bow/12_cangqiong)（弓）
 
 （属性待补充）
 
 ---
 
-### 太初天眼（头盔）
+### [太初天眼](equip/helmet/16_taichutianyan)（头盔）
 
 （属性待补充）
 
 ---
 
-### 九天裙裾（裤子）
+### [九天裙裾](equip/leggings/2_jiutianqunju)（裤子）
 
 （属性待补充）
 

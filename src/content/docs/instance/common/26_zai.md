@@ -136,53 +136,53 @@ title: 灾厄王国
 
 ## 装备产出
 
-### 灾星血刃（战士）
+### [[灾星](equip/boots/17_zaixing)血刃](equip/sword/13_zaixingxueren)（战士）
 
-> 灾星·壹、灾星·贰 需使用 **升格强化** 灾星血刃后解锁
-
-（属性待补充）
-
----
-
-### 厄（弓）
+> 灾星·壹、灾星·贰 需使用 **升格强化** [[灾星](equip/boots/17_zaixing)血刃](equip/sword/13_zaixingxueren)后解锁
 
 （属性待补充）
 
 ---
 
-### 血灾（法宝 · 战士）
-
-> 血灾·壹、血灾·贰 需使用 **升格强化** 血灾后解锁
+### [厄](equip/bow/5_e)（弓）
 
 （属性待补充）
 
 ---
 
-### 神圣领域（法宝 · 炼丹师）
+### [血灾](equip/treasured/warrior/2_xuezai)（法宝 · 战士）
+
+> 血灾·壹、血灾·贰 需使用 **升格强化** [血灾](equip/treasured/warrior/2_xuezai)后解锁
 
 （属性待补充）
 
 ---
 
-### 厄星（头盔）
+### [神圣领域](equip/treasured/alchemist/1_shenshenglingyu)（法宝 · 炼丹师）
 
 （属性待补充）
 
 ---
 
-### 血灾铠甲（铠甲）
+### [厄星](equip/helmet/12_exing)（头盔）
 
 （属性待补充）
 
 ---
 
-### 血灾护腿（裤子）
+### [[血灾](equip/treasured/warrior/2_xuezai)铠甲](equip/chestplate/19_xuezaikaijia)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 灾星（鞋子）
+### [[血灾](equip/treasured/warrior/2_xuezai)护腿](equip/leggings/14_xuezaihutui)（裤子）
+
+（属性待补充）
+
+---
+
+### [灾星](equip/boots/17_zaixing)（鞋子）
 
 （属性待补充）
 

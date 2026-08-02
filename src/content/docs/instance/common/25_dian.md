@@ -108,37 +108,37 @@ title: 神判古界
 
 ---
 
-### 恶灵之爪（炼丹师）
+### [恶灵之爪](equip/tripod/8_elingzhizhao)（炼丹师）
 
 （属性待补充）
 
 ---
 
-### 阴阳八卦（盾 · 战士）
+### [阴阳八卦](equip/shield/warrior/2_yinyangbagua)（盾 · 战士）
 
 （属性待补充）
 
 ---
 
-### 冥虹镜芒·一转（头盔）
+### [冥[虹](equip/bow/13_hong)镜芒·一转](equip/helmet/5_minghongjingmangyizhuan)（头盔）
 
 （属性待补充）
 
 ---
 
-### 龙鳞铠甲·一转（铠甲）
+### [龙鳞铠甲·一转](equip/chestplate/26_longlinkaijiayizhuan)（铠甲）
 
 （属性待补充）
 
 ---
 
-### 魔导之魂·一转（裤子）
+### [魔导之魂·一转](equip/leggings/21_modaozhihunyizhuan)（裤子）
 
 （属性待补充）
 
 ---
 
-### 虚幻圆舞·一转（鞋子）
+### [虚幻圆舞·一转](equip/boots/20_xuhuanyuanwuyizhuan)（鞋子）
 
 （属性待补充）
 

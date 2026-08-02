@@ -35,10 +35,10 @@ export default defineConfig({
         customCss: ["./src/styles/global.css"],
         plugins: [
             starlightGiscus({
-                repo: "tameki/mhlwiki",
-                repoId: "R_kgDOQWQ-Ng",
+                repo: "Tamaki-Plus/mhl_wiki",
+                repoId: "R_kgDOTqNolg",
                 category: "General",
-                categoryId: "DIC_kwDOQWQ-Ns4Cx2No",
+                categoryId: "DIC_kwDOTqNols4DCe-b",
                 mapping: "og:title",
                 lazy: true
             }),
@@ -148,82 +148,260 @@ export default defineConfig({
                         id: "equip",
                         icon: "open-book",
                         items: [
-                            {
-                                label: "战士武器",
-                                items: [
-                                    ]
-                            },
-                            {
-                                label: "弓箭手武器",
-                                items: [
-                                    ]
-                            },
-                            {
-                                label: "炼丹师武器",
-                                items: [
-                                    ]
-                            },
-                            {
-                                label: "盾之印",
-                                items: [
-                                    {
-                                        label: "战士盾",
-                                        items: [
-                                        ]
-                                    },
-                                    {
-                                        label: "通用盾",
-                                        items: [
-                                        ]
-                                    }
-                                    ]
-                            },
-                            {
-                                label: "法宝",
-                                items: [
-                                    {
-                                        label: "战士法宝",
-                                        items: [
-                                        ]
-                                    },
-                                    {
-                                        label: "弓箭手法宝",
-                                        items: [
-                                        ]
-                                    },
-                                    {
-                                        label: "炼丹师法宝",
-                                        items: [
-                                        ]
-                                    },
-                                    {
-                                        label: "通用法宝",
-                                        items: [
-                                        ]
-                                    }
-                                    ]
-                            },
-                            {
-                                label: "头盔",
-                                items: [
-                                    ]
-                            },
-                            {
-                                label: "胸甲",
-                                items: [
-                                    ]
-                            },
-                            {
-                                label: "护腿",
-                                items: [
-                                    ]
-                            },
-                            {
-                                label: "鞋子",
-                                items: [
-                                    ]
-                            }
-                        ]
+    {
+        label: "战士武器",
+        collapsed: true,
+        items: [
+            "equip/sword/1_shishengxueyu",
+            "equip/sword/2_dizangliange",
+            "equip/sword/3_duoyuecanren",
+            "equip/sword/4_duoyuecanrenjie",
+            "equip/sword/5_tianditongbei",
+            "equip/sword/6_dinghaishenzhen",
+            "equip/sword/7_dingqin",
+            "equip/sword/8_hanyuanzhishuijian",
+            "equip/sword/9_tumo",
+            "equip/sword/10_youyingliekongjian",
+            "equip/sword/11_yishicanren",
+            "equip/sword/12_hengguyishicanren",
+            "equip/sword/13_zaixingxueren",
+            "equip/sword/14_xueyu",
+            "equip/sword/15_yuewangjian",
+            "equip/sword/16_mingkezhiji",
+            "equip/sword/17_jingmilieren",
+            "equip/sword/18_mojingshuanggubian"
+        ]
+    },
+    {
+        label: "弓箭手武器",
+        collapsed: true,
+        items: [
+            "equip/bow/1_sanhuocangqiong",
+            "equip/bow/2_jiuyouhanli",
+            "equip/bow/3_genguanying",
+            "equip/bow/4_genguanyingshenpan",
+            "equip/bow/5_e",
+            "equip/bow/6_wuguzhiyan",
+            "equip/bow/7_diaocuiyin",
+            "equip/bow/8_rishijinshuo",
+            "equip/bow/9_shiliuzhishun",
+            "equip/bow/10_canyun",
+            "equip/bow/11_liuguangjinghong",
+            "equip/bow/12_cangqiong",
+            "equip/bow/13_hong",
+            "equip/bow/14_zhuri",
+            "equip/bow/15_shuangying",
+            "equip/bow/16_xiaduanyunche"
+        ]
+    },
+    {
+        label: "炼丹师武器",
+        collapsed: true,
+        items: [
+            "equip/tripod/1_junzhaoling",
+            "equip/tripod/2_shilingkedao",
+            "equip/tripod/3_taiguzuo",
+            "equip/tripod/4_hanshuangyin",
+            "equip/tripod/5_youyuehundeng",
+            "equip/tripod/6_youyuehundengjing",
+            "equip/tripod/7_hengguzhizhang",
+            "equip/tripod/8_elingzhizhao",
+            "equip/tripod/9_xingyunfuzhao",
+            "equip/tripod/10_canxingdeng",
+            "equip/tripod/11_shuishuangxuebingzhiying",
+            "equip/tripod/12_yonghengquanzhang",
+            "equip/tripod/13_hunyuanshending",
+            "equip/tripod/14_hundunzhong",
+            "equip/tripod/15_zidian",
+            "equip/tripod/16_zhenchaoguqingding"
+        ]
+    },
+    {
+        label: "盾之印",
+        collapsed: true,
+        items: [
+            {
+                label: "战士盾",
+                collapsed: true,
+                items: [
+                    "equip/shield/warrior/1_liangzijiandun",
+                    "equip/shield/warrior/2_yinyangbagua"
+                ]
+            },
+            {
+                label: "通用盾",
+                collapsed: true,
+                items: [
+                    "equip/shield/common/1_mudun",
+                    "equip/shield/common/2_shuiyou",
+                    "equip/shield/common/3_jinsehuayu"
+                ]
+            }
+        ]
+    },
+    {
+        label: "法宝",
+        collapsed: true,
+        items: [
+            {
+                label: "战士法宝",
+                collapsed: true,
+                items: [
+                    "equip/treasured/warrior/1_youyuezhu",
+                    "equip/treasured/warrior/2_xuezai"
+                ]
+            },
+            {
+                label: "弓箭手法宝",
+                collapsed: true,
+                items: [
+                    "equip/treasured/archers/1_henggushifu",
+                    "equip/treasured/archers/2_rongyaoanmian"
+                ]
+            },
+            {
+                label: "炼丹师法宝",
+                collapsed: true,
+                items: [
+                    "equip/treasured/alchemist/1_shenshenglingyu"
+                ]
+            },
+            {
+                label: "通用法宝",
+                collapsed: true,
+                items: [
+                    "equip/treasured/common/1_bingwenxuefu",
+                    "equip/treasured/common/2_jingyuyuping",
+                    "equip/treasured/common/3_jiuwangshibingfeng",
+                    "equip/treasured/common/4_anchao",
+                    "equip/treasured/common/5_yuhua",
+                    "equip/treasured/common/6_jinsehuayu",
+                    "equip/treasured/common/7_yinyanglingyu"
+                ]
+            }
+        ]
+    },
+    {
+        label: "头盔",
+        collapsed: true,
+        items: [
+            "equip/helmet/1_yizhuantaichutianyan",
+            "equip/helmet/2_erzhuantaichutianyan",
+            "equip/helmet/3_gongzhen",
+            "equip/helmet/4_minghongjingmang",
+            "equip/helmet/5_minghongjingmangyizhuan",
+            "equip/helmet/6_jingtanwu",
+            "equip/helmet/7_jingtanliu",
+            "equip/helmet/8_lingfengyunling",
+            "equip/helmet/9_fengyuhuakui",
+            "equip/helmet/10_nanwangguishui",
+            "equip/helmet/11_maoshixingyan",
+            "equip/helmet/12_exing",
+            "equip/helmet/13_yezhihongran",
+            "equip/helmet/14_junlin",
+            "equip/helmet/15_shilieyixingzhumo",
+            "equip/helmet/16_taichutianyan",
+            "equip/helmet/17_yixingzhumo",
+            "equip/helmet/18_henggulingguan",
+            "equip/helmet/19_daoshuangtoujin",
+            "equip/helmet/20_fenglihairan",
+            "equip/helmet/21_yonghengjinsuo",
+            "equip/helmet/22_xuezhoufenghun",
+            "equip/helmet/23_xuezaihutui",
+            "equip/helmet/24_nizhuanyixingzhumo",
+            "equip/helmet/25_zhenyutianluo",
+            "equip/helmet/26_anchaomingkui"
+        ]
+    },
+    {
+        label: "胸甲",
+        collapsed: true,
+        items: [
+            "equip/chestplate/1_yizhuantaichushenjia",
+            "equip/chestplate/2_shangguyijia",
+            "equip/chestplate/3_erzhuantaichushenjia",
+            "equip/chestplate/4_jingtanwu",
+            "equip/chestplate/5_jingtanliu",
+            "equip/chestplate/6_beigucangwu",
+            "equip/chestplate/7_fengmoxuanjia",
+            "equip/chestplate/8_yingchaohunhu",
+            "equip/chestplate/9_cantianluoyu",
+            "equip/chestplate/10_canjiangtianyun",
+            "equip/chestplate/11_yonghengchangpao",
+            "equip/chestplate/12_lingxihuzhou",
+            "equip/chestplate/13_lingmaibingjia",
+            "equip/chestplate/14_liehuocanjiangtianyun",
+            "equip/chestplate/15_juexi",
+            "equip/chestplate/16_huacijingjia",
+            "equip/chestplate/17_cangmingyujie",
+            "equip/chestplate/18_xuehaimojia",
+            "equip/chestplate/19_xuezaikaijia",
+            "equip/chestplate/20_funengzhongkaibilei",
+            "equip/chestplate/21_funengzhongkaicunxu",
+            "equip/chestplate/22_diguiniegu",
+            "equip/chestplate/23_jinwuzheyi",
+            "equip/chestplate/24_jingfengyijia",
+            "equip/chestplate/25_longlinkaijia",
+            "equip/chestplate/26_longlinkaijiayizhuan"
+        ]
+    },
+    {
+        label: "护腿",
+        collapsed: true,
+        items: [
+            "equip/leggings/1_yizhuanjiutianqunju",
+            "equip/leggings/2_jiutianqunju",
+            "equip/leggings/3_erzhuanjiutianqunju",
+            "equip/leggings/4_mingyuxueshang",
+            "equip/leggings/5_jingtanwu",
+            "equip/leggings/6_jingtanliu",
+            "equip/leggings/7_shiliuzhizhen",
+            "equip/leggings/8_xingyuelinfeng",
+            "equip/leggings/9_xingluoluoqin",
+            "equip/leggings/10_jiguancuizhi",
+            "equip/leggings/11_xuanchifengku",
+            "equip/leggings/12_shenhuowei",
+            "equip/leggings/13_ruoshuiqingsha",
+            "equip/leggings/14_xuezaihutui",
+            "equip/leggings/15_nifengxianyu",
+            "equip/leggings/16_suohunxuanwenjie",
+            "equip/leggings/17_yunxingjianying",
+            "equip/leggings/18_taotiefengkun",
+            "equip/leggings/19_huneyingsuo",
+            "equip/leggings/20_modaozhihun",
+            "equip/leggings/21_modaozhihunyizhuan"
+        ]
+    },
+    {
+        label: "鞋子",
+        collapsed: true,
+        items: [
+            "equip/boots/1_yizhuanjiutianxuanyu",
+            "equip/boots/2_erzhuanjiutianxuanyu",
+            "equip/boots/3_mingyingbuxue",
+            "equip/boots/4_jingtanwu",
+            "equip/boots/5_jingtanliu",
+            "equip/boots/6_beijingchunxi",
+            "equip/boots/7_xinzhisuo",
+            "equip/boots/8_henggutingfeng",
+            "equip/boots/9_wangsheng",
+            "equip/boots/10_shiliuzhongting",
+            "equip/boots/11_xinglianxia",
+            "equip/boots/12_yuelingxue",
+            "equip/boots/13_tiyunzong",
+            "equip/boots/14_bulvchanghong",
+            "equip/boots/15_cangzhiyuyi",
+            "equip/boots/16_miesuizhanxue",
+            "equip/boots/17_zaixing",
+            "equip/boots/18_shenhuoyuhua",
+            "equip/boots/19_xuhuanyuanwu",
+            "equip/boots/20_xuhuanyuanwuyizhuan",
+            "equip/boots/21_hongcaixue",
+            "equip/boots/22_taxuewuhen",
+            "equip/boots/23_aofengzhanxuejie"
+        ]
+    }
+]
                     }
                 ]
             ),
@@ -255,8 +433,8 @@ export default defineConfig({
             directoryAndTrailingSlashHandler: true
         },
         manifest: {
-            name: "Cubic Wiki",
-            short_name: "Cubic Wiki",
+            name: "mhl Wiki",
+            short_name: "mhl Wiki",
             display: "standalone",
             theme_color: "#2196f3",
             background_color: "#424242"

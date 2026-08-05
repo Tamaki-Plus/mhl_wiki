@@ -115,30 +115,16 @@ title: 卓越反塔
 
 ## 装备产出
 
-### [镇狱天罗](equip/helmet/25_zhenyutianluo)（头盔）
+### [镇狱天罗](/equip/helmet/32_zhenyutianluo)（头盔）
 
+### [封魔玄甲](/equip/chestplate/28_fengmoxuanjia)（铠甲）
 
+### [锁魂玄纹·解](/equip/leggings/31_suohunxuanwenjie)（裤子）
 
----
-
-### [封魔玄甲](equip/chestplate/7_fengmoxuanjia)（铠甲）
-
-
-
----
-
-### [锁魂玄纹·解](equip/leggings/16_suohunxuanwenjie)（裤子）
-
-
-
----
-
-### 灭崇战靴（鞋子）
-
-
+### [灭崇战靴](/equip/boots/27_miesuizhanxue)（鞋子）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_17.png](../../../../assets/instance/img_17.png)

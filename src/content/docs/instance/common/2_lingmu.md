@@ -88,44 +88,37 @@ title: 遗忘之陵
 
 ## 装备产出
 
-### [残云](equip/bow/10_canyun)（弓）
+### [残云](/equip/bow/60_cangqiong)（弓）
 
 **风卷**：射箭时，吹飞位于你面前 **3格** 的怪物
 
----
 
-### [残星灯](equip/tripod/10_canxingdeng)（炼丹师）
+### [残星灯](/equip/tripod/60_canxingdeng)（炼丹师）
 
 **星陨**：攻击时，对亡灵 **额外造成 70点伤害**
 
----
 
-### [卯时星焰](equip/helmet/11_maoshixingyan)（头盔）
-
-
-
----
-
-### [残天珞羽](equip/chestplate/9_cantianluoyu)（铠甲）
+### [卯时星焰](/equip/helmet/12_maoshixingyan)（头盔）
 
 
 
----
-
-### 星念罗衾（裤子）
+### [残天珞羽](/equip/chestplate/10_cantianluoyu)（铠甲）
 
 
 
----
-
-### [星帘下](equip/boots/11_xinglianxia)（鞋子）
+### [星念罗衾](/equip/chestplate/12_xingluoluoqin)（裤子）
 
 
 
----
+### [星帘下](/equip/boots/10_xinglianxia)（鞋子）
 
-### [旧王室禀俸](equip/treasured/common/3_jiuwangshibingfeng)（法宝 · 通用）
+
+
+### [旧王室禀俸](/equip/treasured/common/jiuwangshibingfeng)（法宝 · 通用）
 
 > 📍 新月锻造室 · 锻造方案商处兑换
 
-（锻造配方待补充）
+---
+
+## 锻造配方
+![img.png](../../../../assets/instance/img.png)

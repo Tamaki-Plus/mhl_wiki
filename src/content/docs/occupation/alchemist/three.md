@@ -13,7 +13,7 @@ title: 炼丹师III期
 ---
 
 ## 核心目标
-- 获得 **[永恒权杖](/equip/tripod/12_yonghengquanzhang)** 与 **[幽月魂灯·净](/equip/tripod/6_youyuehundengjing)**
+- 获得 **[永恒权杖](/equip/tripod/100_yonghengquanzhang)** 与 **[幽月魂灯·净](/equip/tripod/95_youyuehundengjing)**
 - **坚持下去！**
 
 ---
@@ -54,13 +54,13 @@ title: 炼丹师III期
 
 | 产出 | 评价 |
 |:---:|---|
-| **[幽月魂灯](/equip/tripod/5_youyuehundeng)** | **必做**，后续可升级 |
-| **[星月林峰](/equip/leggings/8_xingyuelinfeng)** | **必做**（高达 **12点阵强**） |
-| 鳌峰战靴·解 | 可做。前置鞋子需通过几次副本，在副本金砖处领取 |
+| **[幽月魂灯](/equip/tripod/90_youyuehundeng)** | **必做**，后续可升级 |
+| **[星月林峰](/equip/leggings/20_xingyuelinfeng)** | **必做**（高达 **12点阵强**） |
+| [鳌峰战靴·解](/equip/boots/24_aofengzhanxuejie) | 可做。前置鞋子需通过几次副本，在副本金砖处领取 |
 
 > 🎁 出门有概率获得 **吲哚**
 
-#### ⚠️ [幽月魂灯](/equip/tripod/5_youyuehundeng)净化须知
+#### ⚠️ [幽月魂灯](/equip/tripod/90_youyuehundeng)净化须知
 - 做出来后 **还没完**，需要 **净化** 才可后续升级
 - 净化材料需前往 **卓越哭谷** 获取
 
@@ -70,9 +70,9 @@ title: 炼丹师III期
 
 | 产出 | 评价 |
 |:---:|---|
-| [冥[虹](/equip/bow/13_hong)镜芒](/equip/helmet/4_minghongjingmang) | 选做，后续可升级 |
-| **[龙鳞铠甲](/equip/chestplate/25_longlinkaijia)** | **必做**，后续可升级 |
-| [魔导之魂](/equip/leggings/20_modaozhihun) | 选做，后续可升级 |
+| [冥虹镜芒](/equip/helmet/28_minghongjingmang) | 选做，后续可升级 |
+| **[龙鳞铠甲](/equip/chestplate/25_jinwuzheyi)** | **必做**，后续可升级 |
+| [魔导之魂](/equip/leggings/26_modaozhihun) | 选做，后续可升级 |
 
 > 💡 城堡装备给予的生存能力都挺强，**你要乐意可以全做**
 
@@ -80,10 +80,10 @@ title: 炼丹师III期
 
 ### 3. 暗影巢穴
 
-| 产出 | 评价 |
-|:---:|---|
-| **[幽月魂灯·净](/equip/tripod/6_youyuehundengjing)** | **必做**（可再放一次木结晶） |
-| 冥影步鞋 | 可做。放木结晶可造成伤害，但 **元素位材料难搞** |
+|                        产出                        | 评价 |
+|:------------------------------------------------:|---|
+| **[幽月魂灯·净](/equip/tripod/95_youyuehundengjing)** | **必做**（可再放一次木结晶） |
+|                       冥影步鞋                       | 可做。放木结晶可造成伤害，但 **元素位材料难搞** |
 
 ---
 
@@ -91,8 +91,8 @@ title: 炼丹师III期
 
 | 产出 | 评价 |
 |:---:|---|
-| **[永恒权杖](/equip/tripod/12_yonghengquanzhang)** | **必做**。减少金结晶冷却，充能满时技法能量回复加快 |
-| **[永恒长袍](/equip/chestplate/11_yonghengchangpao)** | **必做**。加快金结晶冷却，减少金元素消耗 |
+| **[永恒权杖](/equip/tripod/100_yonghengquanzhang)** | **必做**。减少金结晶冷却，充能满时技法能量回复加快 |
+| **[永恒长袍](/equip/chestplate/29_yonghengchangpao)** | **必做**。加快金结晶冷却，减少金元素消耗 |
 
 ---
 
@@ -104,9 +104,9 @@ title: 炼丹师III期
 
 | 产出 | 评价 |
 |:---:|---|
-| [水霜雪冰之影](/equip/tripod/11_shuishuangxuebingzhiying) | 选做（[寒霜印](/equip/tripod/4_hanshuangyin)升级） |
-| [若水青砂](/equip/leggings/13_ruoshuiqingsha) | 选做（与[水霜雪冰之影](/equip/tripod/11_shuishuangxuebingzhiying)搭配有奇效） |
-| [水佑](/equip/shield/common/2_shuiyou) | 可做。手持时获得 **抗性提升1** 和 **饥饿** 效果 |
+| [水霜雪冰之影](/equip/tripod/80_hanshuangyin) | 选做（[寒霜印](/equip/tripod/80_hanshuangyin)升级） |
+| [若水青砂](/equip/leggings/25_ruoshuiqingsha) | 选做（与[水霜雪冰之影](/equip/tripod/80_hanshuangyin)搭配有奇效） |
+| 水佑 | 可做。手持时获得 **抗性提升1** 和 **饥饿** 效果 |
 
 > ⚠️ 此本 **出货率低、没保底、副本磨叽**
 
@@ -119,7 +119,7 @@ title: 炼丹师III期
 | 灵犀护甲 | 可做（减三种阵法的冷却） |
 
 > ⚠️ 副本 **开箱和出门** 才给该副本的五星材料，挺坐牢的  
-> ⚠️ 需要获取一个 **落日余晖** 给[幽月魂灯](/equip/tripod/5_youyuehundeng)升级
+> ⚠️ 需要获取一个 **落日余晖** 给[幽月魂灯](/equip/tripod/90_youyuehundeng)升级
 
 ---
 
@@ -127,6 +127,6 @@ title: 炼丹师III期
 
 | 产出 | 评价 |
 |:---:|---|
-| [惘生](/equip/boots/9_wangsheng) | 选做 |
+| [惘生](/equip/boots/21_erzhuanjiutianxuanyu) | 选做 |
 
 > 💡 打这个本也只是 **提前准备材料** 罢了

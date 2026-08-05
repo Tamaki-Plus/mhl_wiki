@@ -88,72 +88,30 @@ title: 无常殿
 
 ## 装备产出
 
-### [地藏镰戈](equip/sword/2_dizangliange)（战士）
+### [地藏镰戈](/equip/sword/90_dizangliange)（战士）
 
+### [忘川·霜影](/equip/bow/80_shuangying)（弓）
 
+### [忘川·太古祚](/equip/tripod/70_taiguzuo)（炼丹师）    
 
----
+### [一转·太初天眼](/equip/helmet/19_yizhuantaichutianyan)（头盔）
 
-### 忘川·霜影（弓）
+### [一转·太初神甲](/equip/chestplate/13_yizhuantaichushenjia)（铠甲）
 
+### [一转·九天裙裾](/equip/leggings/16_yizhuanjiutianqunju)（裤子）
 
+### [一转·九天玄羽](/equip/boots/11_jyizhuanjiutianxuanyu)（鞋子）
 
----
+### [二转·太初天眼](/equip/helmet/24_erzhuantaichutianyan)（头盔）
 
-### 忘川·太古祚（炼丹师）
+### [二转·太初神甲](/equip/chestplate/21_erzhuantaichushenjia)（铠甲）
 
+### [二转·九天裙裾](/equip/leggings/22_erzhuanjiutianqunju)（裤子）
 
-
----
-
-### [一转·太初天眼](equip/helmet/1_yizhuantaichutianyan)（头盔）
-
-
-
----
-
-### [一转·太初神甲](equip/chestplate/1_yizhuantaichushenjia)（铠甲）
-
-
-
----
-
-### [一转·九天裙裾](equip/leggings/1_yizhuanjiutianqunju)（裤子）
-
-
-
----
-
-### [一转·九天玄羽](equip/boots/1_yizhuanjiutianxuanyu)（鞋子）
-
-
-
----
-
-### [二转·太初天眼](equip/helmet/2_erzhuantaichutianyan)（头盔）
-
-
-
----
-
-### [二转·太初神甲](equip/chestplate/3_erzhuantaichushenjia)（铠甲）
-
-
-
----
-
-### [二转·九天裙裾](equip/leggings/3_erzhuanjiutianqunju)（裤子）
-
-
-
----
-
-### [二转·九天玄羽](equip/boots/2_erzhuanjiutianxuanyu)（鞋子）
-
-
+### [二转·九天玄羽](/equip/boots/21_erzhuanjiutianxuanyu)（鞋子）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_2.png](../../../../assets/instance/img_26.png)

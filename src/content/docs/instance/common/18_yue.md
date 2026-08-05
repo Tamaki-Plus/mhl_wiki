@@ -105,40 +105,24 @@ title: 恶堕污染的月宫
 
 ## 装备产出
 
-### [堕月残刃](equip/sword/3_duoyuecanren)（战士）
+### [堕月残刃](/equip/sword/90_duoyuecanren)（战士）
+
+> 净化后可消除 **月蚀** 效果
+
+### [幽月魂灯](/equip/tripod/90_youyuehundeng)（炼丹师）
 
 > 净化后可消除 **月蚀** 效果
 
 
+### [星月林峰](/equip/leggings/20_xingyuelinfeng)（裤子）
 
----
-
-### [幽月魂灯](equip/tripod/5_youyuehundeng)（炼丹师）
-
-> 净化后可消除 **月蚀** 效果
+### [月灵鞋](/equip/boots/19_yuelingxue)（鞋子）
 
 
-
----
-
-### [星月林峰](equip/leggings/8_xingyuelinfeng)（裤子）
-
-
-
----
-
-### 月灵鞋（鞋子）
-
-
-
----
-
-### 鳌峰战靴·解（鞋子）
-
-
+### [鳌峰战靴·解](/equip/boots/24_aofengzhanxuejie)（鞋子）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_12.png](../../../../assets/instance/img_12.png)

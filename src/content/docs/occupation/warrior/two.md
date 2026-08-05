@@ -21,52 +21,52 @@ title: 战士II期
 ## 建议（获取六阶全套装备与武器后）
 
 ### 1. 王师魂定所
-产出 **破军剑——[铭刻之迹](/equip/sword/16_mingkezhiji)** 与战士裤子 **[陨星剪影](/equip/leggings/17_yunxingjianying)**。
+产出 **破军剑——[铭刻之迹](/equip/sword/80_dingqin)** 与战士裤子 **[陨星剪影](/equip/leggings/13_yunxingjianying)**。
 
-- **[铭刻之迹](/equip/sword/16_mingkezhiji)**  
+- **[铭刻之迹](/equip/sword/80_dingqin)**  
   - II期最容易获取的两把武器之一，过渡最佳选择。  
   - 配合破军技能叠加强度可打出不俗伤害。  
-  - 在III期可升级为 **[定秦](/equip/sword/7_dingqin)**，输出进一步提升。  
+  - 在III期可升级为 **[定秦](/equip/sword/80_dingqin)**，输出进一步提升。  
   - **非常建议制作**。
 
-- **[陨星剪影](/equip/leggings/17_yunxingjianying)**  
+- **[陨星剪影](/equip/leggings/13_yunxingjianying)**  
   - 相比I期六星裤子属性提升巨大，是II期最佳选择。  
   - **非常建议制作**。
 
-- **[叶之红染](/equip/helmet/13_yezhihongran)**  
+- **[叶之红染](/equip/helmet/15_yezhihongran)**  
   - 相比I期六星头盔属性提升明显，但升级前后技能均不适配战士。  
   - II期有更好选择，若非材料充足不建议制作。
 
 ---
 
 ### 2. 机塑研究所
-产出 **IV期前唯一盾之印——[量子剑盾](/equip/shield/warrior/1_liangzijiandun)**（附带击退附魔，部分副本作用大）及神火二件套（**[神火围](/equip/leggings/12_shenhuowei)** 裤子、**[神火雨花](/equip/boots/18_shenhuoyuhua)** 鞋子）。  
+产出 **IV期前唯一盾之印——量子剑盾**（附带击退附魔，部分副本作用大）及神火二件套（**[神火围](/equip/leggings/14_shenhuowei)** 裤子、**[神火雨花](/equip/boots/14_shenhuoyuhua)** 鞋子）。  
 > 注意：本副本对战士单刷极不友好，建议只刷取剑盾。
 
-- **[量子剑盾](/equip/shield/warrior/1_liangzijiandun)**  
+- **量子剑盾**  
   - IV期前唯一盾之印，造价便宜且兼具输出，应对II期副本绰绰有余。  
-  - 无[铭刻之迹](/equip/sword/16_mingkezhiji)或[异世残刃](/equip/sword/11_yishicanren)时可作主武器。  
+  - 无[铭刻之迹](/equip/sword/80_dingqin)或[异世残刃](/equip/sword/70_yishicanren)时可作主武器。  
   - **非常建议制作**。
 
-- **[神火雨花](/equip/boots/18_shenhuoyuhua)**（鞋子）  
+- **[神火雨花](/equip/boots/14_shenhuoyuhua)**（鞋子）  
   - （具体属性待补充）
 
-- **[神火围](/equip/leggings/12_shenhuowei)**（裤子）  
+- **[神火围](/equip/leggings/14_shenhuowei)**（裤子）  
   - （具体属性待补充）
 
 ---
 
 ### 3. 神保佑的异界（剑本）
-产出：**[异世残刃](/equip/sword/11_yishicanren)**（剑）、**[异星烛魔](/equip/helmet/17_yixingzhumo)**（头）、**[残将天陨](/equip/chestplate/10_canjiangtianyun)**（甲）。
+产出：**[异世残刃](/equip/sword/70_yishicanren)**（剑）、**[异星烛魔](/equip/helmet/22_junlin)**（头）、**[残将天陨](/equip/chestplate/20_canjiangtianyun)**（甲）。
 
-- **[异世残刃](/equip/sword/11_yishicanren)**  
+- **[异世残刃](/equip/sword/70_yishicanren)**  
   - 此阶段制作意义不大，建议装备较强后再回来刷取。  
   - 后续城堡副本的剑需要此剑作为材料，**魔旋核**后期用途广泛，开出来务必保留。
 
-- **[残将天陨](/equip/chestplate/10_canjiangtianyun)**  
+- **[残将天陨](/equip/chestplate/20_canjiangtianyun)**  
   - **必做**：强大的II期过渡甲，后续可升级。
 
-- **[异星烛魔](/equip/helmet/17_yixingzhumo)**  
+- **[异星烛魔](/equip/helmet/22_junlin)**  
   - 选做，造价较贵。
 
 ---

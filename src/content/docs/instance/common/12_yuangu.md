@@ -91,36 +91,18 @@ title: 远古遗迹
 
 ## 装备产出
 
-### [恒古之杖](equip/tripod/7_hengguzhizhang)（炼丹师）
+### [恒古之杖](/equip/tripod/80_hanshuangyin)（炼丹师）
 
+### [恒古陵冠](/equip/helmet/19_henggulingguan)（头盔）
 
+### [递归颧骨](/equip/chestplate/19_diguiniegu)（铠甲）
 
----
+### [恒古霆锋](/equip/boots/16_henggutingfeng)（鞋子）
 
-### [恒古陵冠](equip/helmet/18_henggulingguan)（头盔）
-
-
-
----
-
-### 递归颧骨（铠甲）
-
-
-
----
-
-### [恒古霆锋](equip/boots/8_henggutingfeng)（鞋子）
-
-
-
----
-
-### 恒古噬咒（法宝 · 弓箭手）
-
-
+### [恒古噬咒](/equip/treasured/archers/henggushifu)（法宝 · 弓箭手）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_7.png](../../../../assets/instance/img_7.png)

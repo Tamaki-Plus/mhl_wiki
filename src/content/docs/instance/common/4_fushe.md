@@ -143,36 +143,14 @@ title: 热能发电厂
 
 ## 装备产出
 
-### [星陨辐照](equip/tripod/9_xingyunfuzhao)（炼丹师）
+### [星陨辐照](/equip/tripod/77_xingyunfuzhao)（炼丹师）
 
 
-
----
-
-### 瘟蛭（弓）
+### [共振](/equip/helmet/16_gongzhen)（头盔）
 
 
-
----
-
-### [共振](equip/helmet/3_gongzhen)（头盔）
-
-
-
----
-
-### [辐能重铠-存续](equip/chestplate/21_funengzhongkaicunxu)（铠甲）
-
-
-
----
-
-### [辐能重铠-壁垒](equip/chestplate/20_funengzhongkaibilei)（铠甲）
-
-
-
----
+### [辐能重铠](/equip/chestplate/20_funengzhongkaibilei)（铠甲）
 
 ## 锻造配方
 
-（待补充）
+![img_2.png](../../../../assets/instance/img_2.png)

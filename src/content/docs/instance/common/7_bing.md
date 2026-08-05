@@ -90,18 +90,16 @@ title: 远古冰封之海
 
 ## 装备产出
 
-### [寒霜印](equip/tripod/4_hanshuangyin)（炼丹师）
-
-
-
----
-
-### [霜影](equip/bow/15_shuangying)（弓）
-
-
+### [寒霜印](/equip/tripod/80_hanshuangyin)（炼丹师）
+### [霜影](/equip/bow/80_shuangying)（弓）
+### [玄冰螭龙冠](/equip/helmet/17_xuanbingchilongguan)（头）
+### [寒渊镇海甲](/equip/chestplate/18_hanyuanzhenhaijia)（护甲）
+### [冰冻鲸骨锁](/equip/leggings/18_bingdongjinggusuo)（护腿）
+### [踏海玄冰履](/equip/boots/12_tahaixuanbinglv)（鞋）
+### [净坛·伏崇套装](/equip/helmet/14_jingtanqingmingguan)（四件套）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_1.png](../../../../assets/instance/img_25.png)

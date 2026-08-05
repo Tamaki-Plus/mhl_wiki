@@ -45,38 +45,24 @@ title: 治愈的虹彩
 
 ## 装备产出
 
-### [屠魔](equip/sword/9_tumo)（战士）
+### [屠魔](/equip/sword/100_tumo)（战士）
 
-> 屠戮·壹、屠戮·贰 需使用 **升格强化** [屠魔](equip/sword/9_tumo)后解锁
-
-
-
----
-
-### [虹](equip/bow/13_hong)（弓）
+> 屠戮·壹、屠戮·贰 需使用升格强化 **屠魔** 后解锁
 
 
+### [虹](/equip/bow/110_hong)（弓）
 
----
-
-### [混沌钟](equip/tripod/14_hundunzhong)（炼丹师）
-
+### [混沌钟](/equip/tripod/117_hundunzhong)（炼丹师）
 
 
----
-
-### [心之锁](equip/boots/7_xinzhisuo)（鞋子）
+### [心之锁](/equip/boots/27_xinzhisuo)（鞋子）
 
 
-
----
-
-### 虹彩鞋（鞋子）
-
+### [虹彩鞋](/equip/boots/30_hongcaixue)（鞋子）
 
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_18.png](../../../../assets/instance/img_18.png)

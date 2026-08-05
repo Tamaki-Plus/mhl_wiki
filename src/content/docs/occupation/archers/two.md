@@ -31,7 +31,7 @@ title: 弓箭手II期
 
 - **一转九天玄羽**：选做
 - **九天裙摆**：选做
-- **[苍穹](/equip/bow/12_cangqiong)**：**不推荐**（已被 **[霜影](/equip/bow/15_shuangying)** 完全超越）
+- **[苍穹](/equip/bow/60_cangqiong)**：**不推荐**（已被 **[霜影](/equip/bow/80_rishijinshuo)** 完全超越）
 
 ---
 
@@ -40,10 +40,10 @@ title: 弓箭手II期
 > ⭐ **强烈推荐！**  
 > ⚠️ 本副本需要一定跑酷能力，建议前往要塞购买 **末影珍珠**。在每轮快要破混沌护盾时，可释放 **万流** 技能概率跳关。
 
-- **[悼霜头巾](/equip/helmet/19_daoshuangtoujin)**：可选（剑/头二选一）
-- **[灵脉冰甲](/equip/chestplate/13_lingmaibingjia)**：可选（剑/甲二选一）
-- **[沧之羽翼](/equip/boots/15_cangzhiyuyi)**：**必做**（造价极低，强度不错）
-- **[霜影](/equip/bow/15_shuangying)**：**推荐制作**（强度远超[苍穹](/equip/bow/12_cangqiong)，后续可升级）
+- **[悼霜头巾](/equip/helmet/17_daoshuangtoujin)**：可选（剑/头二选一）
+- **[灵脉冰甲](/equip/chestplate/18_hanyuanzhenhaijia)**：可选（剑/甲二选一）
+- **[沧之羽翼](/equip/boots/12_cangzhiyuyi)**：**必做**（造价极低，强度不错）
+- **[霜影](/equip/bow/80_rishijinshuo)**：**推荐制作**（强度远超[苍穹](/equip/bow/60_cangqiong)，后续可升级）
 
 ---
 
@@ -51,8 +51,8 @@ title: 弓箭手II期
 
 > ⚠️ 本副本前置涉及跑酷，建议携带 **末影珍珠**。
 
-- **[异星烛魔](/equip/helmet/17_yixingzhumo)**：可做，但技能不适配弓箭职业，不推荐
-- **[残将天陨](/equip/chestplate/10_canjiangtianyun)**：可做，不推荐
+- **[异星烛魔](/equip/helmet/22_junlin)**：可做，但技能不适配弓箭职业，不推荐
+- **[残将天陨](/equip/chestplate/20_canjiangtianyun)**：可做，不推荐
 
 ---
 
@@ -61,5 +61,5 @@ title: 弓箭手II期
 > ⚠️ 难度较高，建议先完成前面推荐装备的制作后再来挑战。  
 > 如有多人组队，可尝试挑战 **远古遗迹**。
 
-- **[恒古陵冠](/equip/helmet/18_henggulingguan)**：**必做**（技能优秀，强度出色）
-- **[恒古噬符](/equip/treasured/archers/1_henggushifu)**：**必做**（进阶后效果极强）
+- **[恒古陵冠](/equip/helmet/19_henggulingguan)**：**必做**（技能优秀，强度出色）
+- **恒古噬符**：**必做**（进阶后效果极强）

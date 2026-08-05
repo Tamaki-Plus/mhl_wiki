@@ -66,48 +66,20 @@ title: 古老的城堡
 
 ## 装备产出
 
-### [恒古·异世残刃](equip/sword/12_hengguyishicanren)（战士）
+### [恒古·异世残刃](/equip/sword/90_dizangliange)（战士）
 
+### [恒古黯影](/equip/bow/95_genguanying)（弓）
 
+### [冥虹镜芒](equip/helmet/4_minghongjingmang)（头盔）
 
----
+### [龙鳞铠甲](/equip/chestplate/25_longlinkaijia)（铠甲）
 
-### 恒古黯影（弓）
+### [魔导之魂](/equip/leggings/26_modaozhihun)（裤子）
 
-
-
----
-
-### [冥[虹](equip/bow/13_hong)镜芒](equip/helmet/4_minghongjingmang)（头盔）
-
-
-
----
-
-### [龙鳞铠甲](equip/chestplate/25_longlinkaijia)（铠甲）
-
-
-
----
-
-### [魔导之魂](equip/leggings/20_modaozhihun)（裤子）
-
-
-
----
-
-### [虚幻圆舞](equip/boots/19_xuhuanyuanwu)（鞋子）
-
-
-
----
-
-### 光之印（法宝 · 战士）
-
-
+### [虚幻圆舞](/equip/boots/25_xuhuanyuanwu)（鞋子）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_13.png](../../../../assets/instance/img_13.png)

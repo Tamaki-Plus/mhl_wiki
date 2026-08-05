@@ -106,28 +106,22 @@ title: 卓越正塔
 
 ## 装备产出
 
-### [水霜雪冰之影](equip/tripod/11_shuishuangxuebingzhiying)（炼丹师）
+### [水霜雪冰之影](/equip/tripod/80_shuishuangxuebingzhiying)（炼丹师）
 
 **虚无水影**：使用水结晶阵法召唤 **水之形影**（铁傀儡）
 - 吸引仇恨
 - 不会死亡
 - 每次攻击造成 **？点伤害**，持续 **？秒**
-- ⚠️ 截至灾[厄](equip/bow/5_e)王国版本：伤害仅 **10点**，未修复
-
----
-
-### [水佑](equip/shield/common/2_shuiyou)（盾 · 通用）
+> ⚠️ 截至灾厄王国版本：伤害仅 **10点**，未修复
 
 
-
----
-
-### [若水青砂](equip/leggings/13_ruoshuiqingsha)（裤子）
+### [水佑](/equip/shield/common/shuiyou)（盾 · 通用）
 
 
+### [若水青砂](/equip/leggings/25_ruoshuiqingsha)（裤子）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_8.png](../../../../assets/instance/img_8.png)

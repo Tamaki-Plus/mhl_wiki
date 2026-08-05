@@ -92,30 +92,22 @@ title: 机塑研究所
 
 ## 装备产出
 
-### [量子剑盾](equip/shield/warrior/1_liangzijiandun)（盾 · 战士）
+### [量子剑盾](/equip/shield/warrior/liangzijiandun)（盾 · 战士）
 
 
 
----
+### [太古柞](/equop/tripod/taiguzuo)（炼丹师）
 
-### 太古柞（炼丹师）
+**怜爱之木**：技能不生效（截至 2026.3.8 灾厄王国版本未修复）
 
-**怜爱之木**：技能不生效（截至 2026.3.8 灾[厄](equip/bow/5_e)王国版本未修复）
 
----
-
-### [神火围](equip/leggings/12_shenhuowei)（裤子）
+### [神火围](/equip/leggings/14_shenhuowei)（裤子）
 
 
 
----
+### [神火雨花](/equip/boots/14_shenhuoyuhua)（鞋子）
 
-### [神火雨花](equip/boots/18_shenhuoyuhua)（鞋子）
-
-
-
----
 
 ## 锻造配方
 
-（待补充）
+![img_3.png](../../../../assets/instance/img_3.png)

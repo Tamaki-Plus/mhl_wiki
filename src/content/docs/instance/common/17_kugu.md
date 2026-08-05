@@ -44,30 +44,16 @@ title: 卓越哭谷
 
 ## 装备产出
 
-### [日蚀金烁](equip/bow/8_rishijinshuo)（弓）
+### [日蚀金烁](/equip/bow/80_rishijinshuo)（弓）
 
+### [凤羽华盔](/equip/helmet/23_fenglihairan)（头盔）
 
+### [金乌折翼](/equip/chestplate/25_jinwuzheyi)（铠甲）
 
----
-
-### [凤羽华盔](equip/helmet/9_fengyuhuakui)（头盔）
-
-
-
----
-
-### [金乌折翼](equip/chestplate/23_jinwuzheyi)（铠甲）
-
-
-
----
-
-### [灵犀护胄](equip/chestplate/12_lingxihuzhou)（铠甲）
-
-
+### [灵犀护胄](/equip/chestplate/26_lingxihuzhou)（铠甲）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_11.png](../../../../assets/instance/img_11.png)

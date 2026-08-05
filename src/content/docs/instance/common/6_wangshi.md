@@ -92,30 +92,20 @@ title: 王师魂定所
 
 ## 装备产出
 
-### [铭刻之迹](equip/sword/16_mingkezhiji)（战士）
+### [铭刻之迹](/equip/sword/80_mingkezhiji)（战士）
 
 **战神剑意**：每 **10秒** 记录一次击砍伤害量，将它们按照 **击砍伤害量 ÷ 100** 转换为战斗强度（向上取整）
 
----
 
-### [君诏令](equip/tripod/1_junzhaoling)（炼丹师）
-
+### [君诏令](/equip/tripod/80_junzhaoling)（炼丹师）
 
 
----
-
-### [叶之红染](equip/helmet/13_yezhihongran)（头盔）
+### [叶之红染](/equip/helmet/15_yezhihongran)（头盔）
 
 
+### [陨星剪影](/equip/leggings/13_yunxingjianying)（裤子）
 
----
-
-### [陨星剪影](equip/leggings/17_yunxingjianying)（裤子）
-
-
-
----
 
 ## 锻造配方
 
-（待补充）
+![img.png](../../../../assets/instance/img_24.png)（待补充）

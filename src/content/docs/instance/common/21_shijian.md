@@ -29,7 +29,7 @@ title: 永恒时间阵列III
 | 时之指针 × 2 | 33.6% |
 | 时空结界碎片 × 2 | 33.6% |
 | 时流之瓶 × 1 | 0.1% |
-| 褪色的[永恒权杖](equip/tripod/12_yonghengquanzhang) | 0.1% |
+| 褪色的永恒权杖 | 0.1% |
 | 空 | 32.6% |
 | [炼丹师] 五行浓缩元素核 × 1 | **100%** |
 
@@ -54,44 +54,21 @@ title: 永恒时间阵列III
 
 ## 装备产出
 
-### [时流之瞬](equip/bow/9_shiliuzhishun)（弓）
+### [时流之瞬](/equip/bow/100_shiliuzhishun)（弓）
 
+### [永恒权杖](/equip/tripod/100_yonghengquanzhang)（炼丹师）
 
+### [永恒金梭](/equip/helmet/26_yonghengjinsuo)（头盔）
 
----
+### [永恒长袍](/equip/chestplate/29_yonghengchangpao)（铠甲）
 
-### [永恒权杖](equip/tripod/12_yonghengquanzhang)（炼丹师）
+### [时流指针](/equip/leggings/26_shiliuzhizhen)（裤子）
 
-
-
----
-
-### [永恒金梭](equip/helmet/21_yonghengjinsuo)（头盔）
-
-
-
----
-
-### [永恒长袍](equip/chestplate/11_yonghengchangpao)（铠甲）
-
-
-
----
-
-### [时流指针](equip/leggings/7_shiliuzhizhen)（裤子）
-
-
-
----
-
-### [时流钟亭](equip/boots/10_shiliuzhongting)（裤子）
-
-
-
----
+### [时流钟亭](/equip/boots/28_shiliuzhongting)（裤子）
 
 ## 锻造配方
 
-（待补充）
+![img_15.png](../../../../assets/instance/img_15.png)
+![img_16.png](../../../../assets/instance/img_16.png)
 
 > 📝 **注**：永恒结界处存在文本错误，正确应为 **战头盔、丹胸甲**。

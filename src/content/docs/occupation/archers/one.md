@@ -37,10 +37,10 @@ title: 弓箭手I期
 
 > ⚠️ 前置任务较为繁琐，体验不佳。
 
-- **[残云](/equip/bow/10_canyun)**：选做。数值一般。  
+- **[残云](/equip/bow/60_cangqiong)**：选做。数值一般。  
   - 需刷取 **金字塔二层**，弓前期需要大量药品才能通关。  
-  - [残云](/equip/bow/10_canyun)刷出后，[苍穹](/equip/bow/12_cangqiong)大概率也已可做。  
-  - 在 **III期** 可进阶为 **[霞断云彻](/equip/bow/16_xiaduanyunche)**（强度优秀，可作为雷弓备选）。
+  - [残云](/equip/bow/60_cangqiong)刷出后，[苍穹](/equip/bow/60_cangqiong)大概率也已可做。  
+  - 在 **III期** 可进阶为 **[霞断云彻](/equip/bow/90_diaocuiyin)**（强度优秀，可作为雷弓备选）。
 - 装备造价昂贵，不推荐制作。已有草套的情况下，**无需刷取本副本装备**。
 
 ---

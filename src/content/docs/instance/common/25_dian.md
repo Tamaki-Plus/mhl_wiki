@@ -102,48 +102,23 @@ title: 神判古界
 
 ## 装备产出
 
-### 亘古暗影·审判
+### [亘古暗影·审判](/equip/bow/120_genguanyingshenpan) （弓）
 
+### [恶灵之爪](/equip/tripod/110_elingzhizhao)（炼丹师）
 
+### [阴阳八卦](/equip/shield/warrior/yinyangbagua)（盾 · 战士）
 
----
+### [冥虹镜芒·一转](/equip/helmet/37_minghongjingmangyizhuan)（头盔）
 
-### [恶灵之爪](equip/tripod/8_elingzhizhao)（炼丹师）
+### [龙鳞铠甲·一转](/equip/chestplate/25_longlinkaijiayizhuan)（铠甲）
 
+### [魔导之魂·一转](/equip/leggings/26_modaozhihunyizhuan)（裤子）
 
-
----
-
-### [阴阳八卦](equip/shield/warrior/2_yinyangbagua)（盾 · 战士）
-
-
-
----
-
-### [冥[虹](equip/bow/13_hong)镜芒·一转](equip/helmet/5_minghongjingmangyizhuan)（头盔）
-
-
-
----
-
-### [龙鳞铠甲·一转](equip/chestplate/26_longlinkaijiayizhuan)（铠甲）
-
-
-
----
-
-### [魔导之魂·一转](equip/leggings/21_modaozhihunyizhuan)（裤子）
-
-
-
----
-
-### [虚幻圆舞·一转](equip/boots/20_xuhuanyuanwuyizhuan)（鞋子）
-
+### [虚幻圆舞·一转](/equip/boots/25_xuhuanyuanwuyizhuan)（鞋子）
 
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_20.png](../../../../assets/instance/img_20.png)

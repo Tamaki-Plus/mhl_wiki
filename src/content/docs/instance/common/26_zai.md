@@ -61,11 +61,11 @@ title: 灾厄王国
   - **10秒内** 可按场地中心按钮 **破韧**
   - 破韧可打断灾厄之主部分招式
   - 对灾厄之主造成 **无视护甲和抗性的真实伤害**
-  - ❌ 若10秒内未破韧，韧性回复至200点
+  - 若10秒内未破韧，韧性回复至200点
 
 > ⚠️ 灾厄之主蓄力期间 **抗性提升**
 
-> ❌ **[大招]** 的使用会使灾厄之主韧性条 **回复至200点**
+>  **[大招]** 的使用会使灾厄之主韧性条 **回复至200点**
 
 ---
 
@@ -101,7 +101,7 @@ title: 灾厄王国
 
 #### 5. 灾厄处刑
 - 闪现至一名玩家旁
-- ❌ 若 **1秒后** 未远离 → 被传送至高空承受 **三段高额处决技伤害**
+- 若 **1秒后** 未远离 → 被传送至高空承受 **三段高额处决技伤害**
 
 #### 6. 灾厄阵法（🟡 可打断）
 - 传送至场地中央，**5秒蓄力**
@@ -115,7 +115,7 @@ title: 灾厄王国
 
 #### 7. 死亡仪式（🟡 可打断）
 - **5秒蓄力**，完成后往场地随机释放若干 **死亡矛**
-- ❌ 被死亡矛命中 → 高额伤害
+- 被死亡矛命中 → 高额伤害
 
 #### 8. 灾厄涌现（🟡 可打断）
 - **3秒蓄力**，完成后对随机玩家释放 **死亡矛**
@@ -124,7 +124,7 @@ title: 灾厄王国
 #### 9. 灾厄印记
 - 受到伤害后获得 **10枚灾厄印记**
 - 每秒移除 **1枚**
-- ❌ 印记达到 **400** → **立即死亡**
+- 印记达到 **400** → **立即死亡**
 
 | 行为 | 效果 |
 |---|---|
@@ -136,58 +136,31 @@ title: 灾厄王国
 
 ## 装备产出
 
-### [[灾星](equip/boots/17_zaixing)血刃](equip/sword/13_zaixingxueren)（战士）
+### [灾星血刃](/equip/sword/115_zaixingxueren)（战士）
 
-> 灾星·壹、灾星·贰 需使用 **升格强化** [[灾星](equip/boots/17_zaixing)血刃](equip/sword/13_zaixingxueren)后解锁
+> 灾星·壹、灾星·贰 需使用升格强化 **灾星血刃** 后解锁
 
+### [厄](/equip/bow/115_e)（弓）
 
+### [血灾](/equip/treasured/warrior/xuezai)（法宝 · 战士）
 
----
+> 血灾·壹、血灾·贰 需使用升格强化 **血灾** 后解锁
 
-### [厄](equip/bow/5_e)（弓）
+### [神圣领域](/equip/treasured/alchemist/shenshenglingyu)（法宝 · 炼丹师）
 
-
-
----
-
-### [血灾](equip/treasured/warrior/2_xuezai)（法宝 · 战士）
-
-> 血灾·壹、血灾·贰 需使用 **升格强化** [血灾](equip/treasured/warrior/2_xuezai)后解锁
+### [厄星](/equip/helmet/36_exing)（头盔）
 
 
-
----
-
-### [神圣领域](equip/treasured/alchemist/1_shenshenglingyu)（法宝 · 炼丹师）
+### [血灾铠甲](/equip/chestplate/25_xuezaikaijia)（铠甲）
 
 
+### [血灾护腿](/equip/leggings/29_xuezaihutui)（裤子）
 
----
-
-### [厄星](equip/helmet/12_exing)（头盔）
-
-
-
----
-
-### [[血灾](equip/treasured/warrior/2_xuezai)铠甲](equip/chestplate/19_xuezaikaijia)（铠甲）
-
-
-
----
-
-### [[血灾](equip/treasured/warrior/2_xuezai)护腿](equip/leggings/14_xuezaihutui)（裤子）
-
-
-
----
-
-### [灾星](equip/boots/17_zaixing)（鞋子）
-
+### [灾星](/equip/boots/27_zaixing)（鞋子）
 
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_21.png](../../../../assets/instance/img_21.png)

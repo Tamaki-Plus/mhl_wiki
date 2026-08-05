@@ -98,36 +98,19 @@ title: 血神教
 
 ## 装备产出
 
-### [血狱](equip/sword/14_xueyu)（战士）
+### [血狱](/equip/sword/85_xueyu)（战士）
 
+### [噬灵刻刀](/equip/tripod/85_shilingkedao)（炼丹师）
 
+### [血海魔裳](/equip/chestplate/15_xuehaimojia)（铠甲）
 
----
+### [冥狱血裳](/equip/leggings/15_jingtandizuijing)（裤子）
 
-### [噬灵刻刀](equip/tripod/2_shilingkedao)（炼丹师）
-
-
-
----
-
-### 血海魔裳（铠甲）
-
-
-
----
-
-### [冥狱血裳](equip/leggings/4_mingyuxueshang)（裤子）
-
-
-
----
-
-### [噬生·血狱](equip/sword/1_shishengxueyu)（战士）
-
-
+### [噬生·血狱](/equip/sword/85_shishengxueyu)（战士）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_4.png](../../../../assets/instance/img_28.png)
+![img_5.png](../../../../assets/instance/img_5.png)

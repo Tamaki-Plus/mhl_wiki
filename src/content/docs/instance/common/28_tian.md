@@ -26,16 +26,25 @@ title: 两仪倒悬天
 
 > 📝 **最新副本，请自行探索**
 
-（详细机制待补充）
+> ⚠️ 本副本由于特殊原因无期限关闭
+
 
 ---
 
 ## 装备产出
 
-（待补充）
+### [天地同悲](/equip/sword/120_tianditongbei)（剑）
+### [九幽寒戾](/equip/bow/120_jiuyouhanli)（弓）
+### [流光惊鸿](/equip/bow/120_liuguangjinghong)（弓）
+### [南望桂水](/equip/helmet/31_nanwangguishui)（头）
+### [北顾苍梧](/equip/chestplate/31_beigucangwu)（护甲）
+### [逆风衔羽](/equip/leggings/37_nifengxianyu)（护腿）
+### [步履长虹](/equip/boots/38_bulvchanghong)（鞋子）
+### [踏雪无痕](/equip/boots/33_taxuewuhen)（鞋子）
+
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_23.png](../../../../assets/instance/img_23.png)

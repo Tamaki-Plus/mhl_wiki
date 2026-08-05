@@ -63,42 +63,23 @@ title: 神保佑的异界
 
 ## 装备产出
 
-### [异世残刃](equip/sword/11_yishicanren)（战士）
+### [异世残刃](/equip/sword/70_yishicanren)（战士）
 
 **契约**：持剑时，提升 **1级生命恢复** 和 **抗性提升**，并每隔 **10秒** 回复 **4点血量**
 
----
 
-### [异星烛魔](equip/helmet/17_yixingzhumo)（头盔）
+### [异星烛魔](/equip/helmet/22_yixingzhumo)（头盔）
 
+### [残将天陨](/equip/chestplate/20_canjiangtianyun)（铠甲）
 
+### [逆转·异星蚀魔](/equip/helmet/20_nizhuanyixingzhumo)（头盔）
 
----
+### [噬烈·异星蚀魔](/equip/helmet/18_shilieyixingzhumo)（头盔）
 
-### [残将天陨](equip/chestplate/10_canjiangtianyun)（铠甲）
-
-
-
----
-
-### 逆转·异星蚀魔（头盔）
-
-
-
----
-
-### 噬烈·异星蚀魔（头盔）
-
-
-
----
-
-### [烈火·残将天陨](equip/chestplate/14_liehuocanjiangtianyun)（铠甲）
-
-
+### [烈火·残将天陨](/equip/chestplate/23_liehuocanjiangxingyun)（铠甲）
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_3.png](../../../../assets/instance/img_27.png)

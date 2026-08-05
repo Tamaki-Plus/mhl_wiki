@@ -44,18 +44,13 @@ title: 卓越火魔
 
 ## 装备产出
 
-### 三火·苍穹（弓）
+### [三火·苍穹](/equip/bow/80_sanhuocangqiong)（弓）
 
 
-
----
-
-### [枫璃海染](equip/helmet/20_fenglihairan)
-
-
+### [枫璃海染](/equip/helmet/23_fenglihairan)
 
 ---
 
 ## 锻造配方
 
-（待补充）
+![img_10.png](../../../../assets/instance/img_10.png)

@@ -70,9 +70,9 @@ title: 卓越始皇陵
 - 拥有 **高额抗性**
 - ✅ 击杀苦力怕 → 副本通关
 
-> ⚠️ Boss 会不断召唤 **小怪** 和 **护卫**
+>  Boss 会不断召唤 **小怪** 和 **护卫**
 
-> ❌ **火球术无法索敌** 此 Boss
+>  **火球术无法索敌** 此 Boss
 
 ---
 
@@ -85,18 +85,13 @@ title: 卓越始皇陵
 
 ## 装备产出
 
-### [定秦](equip/sword/7_dingqin)（战士）
+### [定秦](/equip/sword/80_dingqin)（战士）
 
 
-
----
-
-### [君临](equip/helmet/14_junlin)（头盔）
+### [君临](/equip/helmet/22_junlin)（头盔）
 
 
-
----
 
 ## 锻造配方
 
-（待补充）
+![img_9.png](../../../../assets/instance/img_9.png)

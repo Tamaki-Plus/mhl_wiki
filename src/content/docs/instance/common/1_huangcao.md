@@ -100,36 +100,32 @@ title: 荒草秘境
 
 ## 装备产出
 
-### [魔茎双股鞭](equip/sword/18_mojingshuanggubian)（战士）
+### [魔茎双股鞭](/equip/sword/48_mojingshuanggubian)（战士）
 
 **鸠毒之火**：若普攻成功附着火焰，1.5秒内连续追加 **3段伤害**，每段造成 **12点法术伤害**，共计 **36点伤害**
 
----
 
-### [鸩巢骨青鼎](equip/tripod/16_zhenchaoguqingding)（炼丹师）
-
+### [鸩巢骨青鼎](/equip/tripod/48_zhenchaoguqingding)（炼丹师）
 
 
----
 
-### 净坛系列装备（五阶）
+### [净坛系列装备](/equip/helmet/1_jingtanwu)（五阶）
 
 **明镜止水**：每 **40秒** 回复 **6点生命值**。每多穿戴一件净坛系列装备，该间隔减少 **10秒**
 
 > *此系列装备强度相同，仅生命值等基础属性略有不同*
 
----
-
-### 净坛系列装备（六阶）
+### [净坛系列装备](/equip/helmet/1_jingtanliu)（六阶）
 
 **明镜止水**：每 **40秒** 回复 **6点生命值**。每多穿戴一件净坛系列装备，该间隔减少 **10秒**
 
 > *此系列装备强度相同，仅生命值等基础属性略有不同*
 
----
 
-### [净雨毓瓶](equip/treasured/common/2_jingyuyuping)（法宝 · 通用）
+### [净雨毓瓶](/equip/treasured/common/jingyuyuping)（法宝 · 通用）
 
 > 📍 新月锻造室 · 锻造方案师处兑换配方
+---
 
-（锻造配方待补充）
+## 锻造配方
+![img.png](../../../../assets/instance/img_4.png)

@@ -40,8 +40,8 @@ title: 战士I期
 - **六阶净坛**  
   由五阶净坛升级而来的钻石装备，升级成本较高。节省时间可只制作胸甲与鞋子，头盔与裤子使用 **混天绫** 与 **锁魂玄纹/紫砂缠**。
 
-- **[魔茎双股鞭](/equip/sword/18_mojingshuanggubian)**  
-  I期唯一六星DLC武器，属性优于[定海神针](/equip/sword/6_dinghaishenzhen)。缺点：造价偏贵，战士单人刷取合成材料“山灵”有一定难度。
+- **[魔茎双股鞭](/equip/sword/48_mojingshuanggubian)**  
+  I期唯一六星DLC武器，属性优于[定海神针](/equip/sword/35_dinghaishenzhen)。缺点：造价偏贵，战士单人刷取合成材料“山灵”有一定难度。
 
 ### 拥有四阶装备与技能后
 可攻略以下内容（注意各副本特点）：
@@ -59,14 +59,14 @@ title: 战士I期
   建议有跑酷基础的玩家尝试。
 
 #### 相关装备说明
-- **[定海神针](/equip/sword/6_dinghaishenzhen)**  
-  I期除[魔茎双股鞭](/equip/sword/18_mojingshuanggubian)外唯一好用的武器。
+- **[定海神针](/equip/sword/35_dinghaishenzhen)**  
+  I期除[魔茎双股鞭](/equip/sword/48_mojingshuanggubian)外唯一好用的武器。
 
 - **混天绫**  
-  唯一原六头盔，属性低于净坛。可在III期升级为 **[君临](/equip/helmet/14_junlin)**，建议刷取（或III期再刷）。
+  唯一原六头盔，属性低于净坛。可在III期升级为 **[君临](/equip/helmet/22_junlin)**，建议刷取（或III期再刷）。
 
 - **锁魂玄纹**  
-  属性较差，不建议刷取。IV期可升级为 **[锁魂玄纹·解](/equip/leggings/16_suohunxuanwenjie)**，建议届时再刷。
+  属性较差，不建议刷取。IV期可升级为 **[锁魂玄纹·解](/equip/leggings/31_suohunxuanwenjie)**，建议届时再刷。
 
 - **紫砂缠**  
   属性高于锁魂玄纹但低于净坛，需跑酷获取。无跑酷基础不建议尝试（或许可在皇城瓜摊找到）。
@@ -83,7 +83,10 @@ title: 战士I期
 
 - **炼金术获取**  
   - 新月城卜算阁：凭 **新月令**（主线奖励）与无痕兑换 **炼金术初等[一]**，兑换列表中的 **天枢·五行** 可吸纳元素并解锁新炼金术。  
+  ![img.png](../../../../assets/occupation/img.png)
   - 新月城杂货铺对面店铺：与炼金师长风兑换 **炼金术初等[二]**。
+  ![img_1.png](../../../../assets/occupation/img_1.png)
+  
 
 - **炼金制作（习得[二]后）**  
   可在炼金室制作药品应对I至III期副本：  
@@ -104,6 +107,7 @@ title: 战士I期
 - 重生锚点坐标：`5515, 64, -472`  
 - 功能：主线/支线任务地点，基础功能主城  
 - 乌达郎（坐标 `5499, 64, -403`）出售廉价铜锣烧，可轻松解决前期食物问题。
+![img_2.png](../../../../assets/occupation/img_2.png)
 
 ### 要塞（主城）
 承载功能包括：

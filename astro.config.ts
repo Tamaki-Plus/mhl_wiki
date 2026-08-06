@@ -45,8 +45,8 @@ export default defineConfig({
             starlightSidebarTopics(
                 [
                     {
-                        label: "引导",
-                        link: "/intro",
+                        label: "进入服务器",
+                        link: "/start/intro",
                         icon: "seti:bazel",
                         id: "basics",
                         items: [

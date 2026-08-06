@@ -10,7 +10,7 @@ hero:
         file: ../../assets/book.png
     actions:
         - text: 开始阅读
-          link: /intro
+          link: /start/intro
 ---
 ---
 
@@ -20,6 +20,8 @@ import LinkCard from "@components/LinkCard.astro";
 ## 下一步
 
 <CardGrid>
+    <LinkCard title="进入服务器" icon="pencil" href="/start/intro">
+    </LinkCard>
     <LinkCard title="游戏阶段指引" icon="pencil" href="/occupation/intro">
     </LinkCard>
     <LinkCard title="副本档案页" icon="pencil" href="/instance/intro">
